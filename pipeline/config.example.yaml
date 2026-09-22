@@ -10,12 +10,14 @@ providers:
     model: ""
 
   voice:
-    name: stub
-    api_key_env: VOICE_GEN_API_KEY
+    name: elevenlabs
+    api_key_env: ELEVENLABS_API_KEY
     # Two voice presets, matched to the charter's subtitle colors.
+    # Pick two voice IDs from https://elevenlabs.io/app/voice-lab (or the
+    # "Voices" tab of your account) and paste them below.
     voices:
-      human: ""
-      object_or_presenter: ""
+      human: "PASTE_VOICE_ID_HERE"
+      object_or_presenter: "PASTE_VOICE_ID_HERE"
 
   animate:
     # Turns a still reference/pose image + a plan description into a short clip.
