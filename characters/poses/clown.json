@@ -1,0 +1,208 @@
+{
+  "character": "clown",
+  "reference": "See ../clown.md for the base reference-sheet prompt",
+  "note": "Curated, de-duplicated pose library: one prompt per recurring hand-visible action, reused across every storyboard that needs it (see used_in).",
+  "count": 24,
+  "poses": [
+    {
+      "key": "phone_buzzing_on_table",
+      "label_fr": "Tapote un téléphone qui vibre, l'air blasé",
+      "used_in": [
+        "s01-v09 Les notifications",
+        "s06-m05 Wifi (variante téléphone en main)"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: tapping a buzzing smartphone screen with one finger while lying back, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "eating_cake_guilty",
+      "label_fr": "Mange une part de gâteau à la main, l'air coupable",
+      "used_in": [
+        "s01-v10 Le régime",
+        "s06-m09 Régime"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: holding a slice of cake in one hand, taking a big guilty bite, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "swiping_map",
+      "label_fr": "Balaie une carte de la main, geste ample",
+      "used_in": [
+        "s01-v11 Le communiqué météo"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: sweeping one open hand across an invisible large map, presenter gesture, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "pointing_search",
+      "label_fr": "Cherche un point du bout du doigt sur une carte",
+      "used_in": [
+        "s01-v11 Le communiqué météo"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: leaning forward, one index finger searching for a spot on a map, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "writing_list",
+      "label_fr": "Écrit une liste sur un papier, stylo en main",
+      "used_in": [
+        "s01-v12 Les bonnes résolutions",
+        "s03-p02 Le Post-it Intelligent"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: holding a pen and writing enthusiastically on a piece of paper, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "thumbs_up",
+      "label_fr": "Les deux pouces levés, fier",
+      "used_in": [
+        "s01-v12 Les bonnes résolutions",
+        "s03-p06 La Chaussette Jumelle"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both thumbs up at chest height, big proud grin, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "covering_ears",
+      "label_fr": "Se bouche les oreilles des deux mains",
+      "used_in": [
+        "s03-p01 Le Silence Premium"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both hands pressed firmly over the ears, eyes squeezed shut, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "opening_box_product",
+      "label_fr": "Ouvre une boîte-produit des deux mains, plein d'attente",
+      "used_in": [
+        "s03-p01 Le Silence Premium",
+        "s03-p07 Le Générateur d'Excuses"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both hands lifting the lid off a product box, eager anticipation, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "holding_teacup",
+      "label_fr": "Tient une tasse de thé à deux mains, détendu",
+      "used_in": [
+        "s03-p01 Le Silence Premium"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: holding a small teacup with both hands, sipping calmly, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "arms_raised_victory",
+      "label_fr": "Les deux bras levés en signe de victoire",
+      "used_in": [
+        "s03-p03 Le Mot de Passe Facile",
+        "s03-p04 Le Réveil Menteur"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both arms thrown up in the air in a big victory gesture, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "pressing_big_button",
+      "label_fr": "Appuie sur un gros bouton d'un doigt, les yeux fermés",
+      "used_in": [
+        "s03-p05 Le Bouton Pause",
+        "s03-p07 Le Générateur d'Excuses"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: pressing down on a large red button with one index finger, eyes closed, breathing in, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "plugging_cable",
+      "label_fr": "Branche un câble sur un appareil, concentré",
+      "used_in": [
+        "s03-p08 Le Câble Universel"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both hands plugging a long white cable into a small device, focused, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "holding_dictionary",
+      "label_fr": "Tient un énorme dictionnaire ouvert contre lui, air solennel",
+      "used_in": [
+        "s06 Le Dico du coin (toutes les entrées, plan 2)"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: holding a giant open dictionary against the chest with both hands, solemn presenter pose, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "phone_raised_on_chair",
+      "label_fr": "Tient son téléphone en l'air, debout sur une chaise",
+      "used_in": [
+        "s06-m02 Wifi"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: standing on a chair, one arm stretched high holding a phone up in the air, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "typing_in_vain",
+      "label_fr": "Tape sur un clavier, en vain",
+      "used_in": [
+        "s06-m04 Mot de passe"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both hands typing rapidly on a keyboard, frustrated expression building, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "swearing_at_mirror",
+      "label_fr": "Main levée devant un miroir, geste de serment exagéré",
+      "used_in": [
+        "s06-m09 Régime"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: one hand raised in an exaggerated oath gesture in front of a mirror, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "sofa_phone_in_hand",
+      "label_fr": "Affalé sur le canapé, téléphone en main, tape un message",
+      "used_in": [
+        "s01-v01 Le téléphone"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: slouched back on a sofa, holding a smartphone with both hands, thumbs typing, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "checking_watch_impatient",
+      "label_fr": "Regarde sa montre au poignet, impatient",
+      "used_in": [
+        "s01-v02 Le gain de temps"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: one hand raised checking a wristwatch, impatient posture, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hands_on_wheel_driving",
+      "label_fr": "Les deux mains sur un volant, en train de conduire",
+      "used_in": [
+        "s01-v03 Le GPS"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both hands gripping a steering wheel, driving, leaning slightly forward, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "out_of_breath_after_run",
+      "label_fr": "Essoufflé, une main sur le genou, l'autre sur la montre",
+      "used_in": [
+        "s01-v04 La montre connectée"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: bent forward slightly, one hand on a raised knee catching breath, the other hand raised showing a smartwatch, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "typing_password_frustrated",
+      "label_fr": "Tape sur un clavier, de plus en plus lentement",
+      "used_in": [
+        "s01-v05 Les mots de passe"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both hands typing on a keyboard, fingers slowing down with growing frustration, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "opening_fridge_door",
+      "label_fr": "Ouvre une porte de frigo d'une main, regarde à l'intérieur",
+      "used_in": [
+        "s01-v06 Le frigo connecté",
+        "s06-m06 Frigo"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: one hand holding a fridge door open, peering inside hopefully, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hovering_mouse_click",
+      "label_fr": "La main hésite au-dessus d'une souris d'ordinateur",
+      "used_in": [
+        "s01-v07 Les conditions d'utilisation"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: one hand hovering hesitantly over a computer mouse, about to click, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hand_pressing_snooze",
+      "label_fr": "Une main sort d'une couette pour appuyer sur le bouton répéter",
+      "used_in": [
+        "s01-v08 Le réveil intelligent"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: one hand emerging from under a blanket, index finger pressing down on an alarm clock button, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    }
+  ]
+}

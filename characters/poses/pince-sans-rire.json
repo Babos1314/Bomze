@@ -1,0 +1,218 @@
+{
+  "character": "pince-sans-rire",
+  "reference": "See ../pince-sans-rire.md for the base reference-sheet prompt",
+  "note": "Curated, de-duplicated pose library: one prompt per recurring hand-visible action, reused across every storyboard that needs it (see used_in).",
+  "count": 26,
+  "poses": [
+    {
+      "key": "holding_phone_texting",
+      "label_fr": "Tient un téléphone et tape un message des deux pouces",
+      "used_in": [
+        "s02-d06 Le robot aspirateur"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: holding a smartphone with both hands at chest height, thumbs typing a message, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hand_on_steering_wheel",
+      "label_fr": "Les deux mains sur un volant, en train de conduire",
+      "used_in": [
+        "s02-d01 Le GPS"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: both hands gripping a steering wheel, driving, leaning slightly forward, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "tapping_screen_triumphant",
+      "label_fr": "Tapote un écran d'un doigt, air triomphant",
+      "used_in": [
+        "s02-d01 Le GPS"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: tapping a screen with one index finger, other hand on hip, triumphant posture, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hand_scratching_chin",
+      "label_fr": "Une main sur le menton, songeur",
+      "used_in": [
+        "s02-d02 Le frigo"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: one hand scratching the chin thoughtfully, head slightly tilted, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "slamming_door",
+      "label_fr": "Referme une porte d'un geste sec, une main sur la poignée",
+      "used_in": [
+        "s02-d02 Le frigo"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: one hand slamming a fridge door shut, arm caught mid-motion, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hand_emerging_from_blanket",
+      "label_fr": "Une main sort d'une couette pour appuyer sur un bouton",
+      "used_in": [
+        "s02-d04 Le réveil"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: one hand emerging from under a blanket, index finger pressing down on a button, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "searching_pockets",
+      "label_fr": "Fouille ses poches des deux mains",
+      "used_in": [
+        "s02-d05 L'assistant vocal"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: both hands patting down and searching coat pockets, slightly frustrated, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "holding_keys",
+      "label_fr": "Tient un trousseau de clés serré dans le poing",
+      "used_in": [
+        "s02-d05 L'assistant vocal",
+        "s05-c01 Les clés"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: holding a bunch of keys tightly in one raised fist, showing it to the camera, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "arms_crossed",
+      "label_fr": "Bras croisés, penché en avant, sceptique",
+      "used_in": [
+        "s02-d06 Le robot aspirateur"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: arms crossed over the chest, leaning forward slightly, skeptical posture, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "scanning_item_at_checkout",
+      "label_fr": "Scanne un article devant une caisse automatique",
+      "used_in": [
+        "s02-d07 La caisse automatique"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: holding a small grocery item over a checkout scanner with one hand, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "arms_raised_frustration",
+      "label_fr": "Les deux bras levés, geste d'exaspération",
+      "used_in": [
+        "s02-d07 La caisse automatique"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: both arms raised in the air, palms open, a gesture of exasperation, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "gesturing_at_screen",
+      "label_fr": "Fait de grands gestes des deux mains devant un écran",
+      "used_in": [
+        "s02-d08 La visioconférence"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: both hands gesturing widely in front of a laptop screen, trying to get attention, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "arms_raised_podium",
+      "label_fr": "Les deux bras levés derrière un pupitre, triomphant",
+      "used_in": [
+        "s04-s01 Les promesses"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: standing behind a podium, both arms raised triumphantly above the head, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "flipping_pages",
+      "label_fr": "Feuillette un gros dossier des deux mains",
+      "used_in": [
+        "s04-s02 Le programme"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: both hands flipping through the pages of a thick document, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "shaking_empty_box",
+      "label_fr": "Secoue une boîte vide, une main de chaque côté",
+      "used_in": [
+        "s04-s02 Le programme"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: holding an empty box with both hands and shaking it upside down, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "stacking_object",
+      "label_fr": "Pose un objet rond sur un autre, à deux mains",
+      "used_in": [
+        "s04-s03 La commission"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: both hands carefully placing a large round object on top of another identical one, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "finger_raised_pointing",
+      "label_fr": "Un doigt levé, affirmatif",
+      "used_in": [
+        "s04-s04 Le débat",
+        "s05-c01 Les clés"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: one index finger raised in the air, making an assertive point, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "holding_paper_raised",
+      "label_fr": "Brandit une feuille de papier au-dessus de la tête",
+      "used_in": [
+        "s04-s05 La réforme"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: one hand holding a single sheet of paper raised above shoulder height, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "gesticulating_speech",
+      "label_fr": "Gesticule des deux mains en parlant derrière un pupitre",
+      "used_in": [
+        "s04-s06 Le discours"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: both hands gesturing animatedly while speaking, mid-gesture, behind a podium, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "holding_scissors_ribbon",
+      "label_fr": "Tient de grands ciseaux, prêt à couper un ruban",
+      "used_in": [
+        "s04-s07 Le rond-point"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: holding a pair of large ceremonial scissors with both hands, about to cut a ribbon, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hugging_large_folder",
+      "label_fr": "Serre un énorme dossier contre lui à deux bras",
+      "used_in": [
+        "s04-s09 Le dossier"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: hugging an oversized file folder tightly with both arms against the chest, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hands_on_closed_drawer",
+      "label_fr": "Les deux mains posées sur un tiroir de classeur fermé",
+      "used_in": [
+        "s04-s09 Le dossier"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: both hands resting flat on top of a closed filing cabinet drawer, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "combing_hair",
+      "label_fr": "Se recoiffe avec un peigne, une main tenant un miroir",
+      "used_in": [
+        "s04-s10 Le bilan"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: one hand combing the hair back with a small comb, admiring the result, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "hand_over_heart",
+      "label_fr": "Une main posée sur le cœur, ton sincère et faux",
+      "used_in": [
+        "s05-c04 La box internet"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: one hand placed flat over the heart, in a gesture of exaggerated sincerity, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "holding_remote",
+      "label_fr": "Tient une télécommande, avachi",
+      "used_in": [
+        "s05-c05 Le sport"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: holding a TV remote control loosely in one hand, slouched posture, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "finger_on_closed_folder",
+      "label_fr": "Un doigt posé sur un dossier fermé, sur une table de réunion",
+      "used_in": [
+        "s05-c06 La réunion"
+      ],
+      "prompt": "Same character as the reference image: semi-realistic animated man around 40, short messy dark hair, two-day stubble, very expressive mobile eyebrows with heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes. Pose: one index finger resting on top of a closed folder on a table, not opening it, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    }
+  ]
+}

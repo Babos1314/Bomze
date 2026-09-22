@@ -1,0 +1,219 @@
+series: 5
+key: conseil-expert
+name: Le conseil de l'expert
+character: pince-sans-rire
+video_count: 6
+videos:
+- id: s05-c01
+  series: 5
+  num: 1
+  title: Les clés
+  character: pince-sans-rire
+  duration_s: 17
+  text_lines:
+  - 'Présentateur : « Comment ne plus jamais perdre ses clés ? »'
+  - 'Expert : « Une méthode simple : ne les posez jamais. Gardez-les dans la main en permanence. Oui,
+    même sous la douche. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: 'Plateau : l''expert dans son fauteuil, bandeau « L''EXPERT » ; un micro tendu par un bras
+      hors champ'
+    sound: Jingle de plateau, voix du présentateur
+    subtitle: « Comment ne plus jamais perdre ses clés ? »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 4-9 s
+    image: 'Gros plan : il hoche la tête, lève un doigt'
+    sound: Voix lente
+    subtitle: « Ne les posez jamais »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: 'Insert : un trousseau de clés serré dans un poing, dans une salle de bain avec de la vapeur'
+    sound: Bruit de douche, tintement
+    subtitle: « Même sous la douche »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-17 s
+    image: Face caméra, satisfait, le trousseau à la main ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s05-c02
+  series: 5
+  num: 2
+  title: Le réveil
+  character: pince-sans-rire
+  duration_s: 16
+  text_lines:
+  - 'Présentateur : « Comment se lever plus facilement le matin ? »'
+  - 'Expert : « Le secret est simple : dormez debout. Vous serez déjà levé. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Plateau, l'expert dans son fauteuil
+    sound: Jingle, voix du présentateur
+    subtitle: « Comment se lever plus facilement ? »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 4-8 s
+    image: 'Gros plan : il marque une longue pause, puis se penche vers la caméra'
+    sound: Silence, voix lente
+    subtitle: « Le secret est simple »
+    subtitle_color: white
+  - plan: 3
+    duration: 8-13 s
+    image: 'Insert : le personnage dort debout dans une chambre, un réveil sonne à côté ; il ouvre un
+      œil, déjà debout'
+    sound: Sonnerie
+    subtitle: « Dormez debout »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-16 s
+    image: Face caméra, un sourire discret ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « Vous serez déjà levé »
+    subtitle_color: white
+- id: s05-c03
+  series: 5
+  num: 3
+  title: La procrastination
+  character: pince-sans-rire
+  duration_s: 16
+  text_lines:
+  - 'Présentateur : « Comment arrêter de remettre les choses au lendemain ? »'
+  - 'Expert : « Le meilleur moment pour commencer, c''est demain. Et demain, le meilleur moment, c''est
+    demain. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Plateau, l'expert croise les jambes
+    sound: Jingle, voix du présentateur
+    subtitle: « Comment arrêter de tout remettre à demain ? »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 4-9 s
+    image: 'Gros plan : il sourit avec assurance'
+    sound: Voix lente
+    subtitle: « Le meilleur moment, c'est demain »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-13 s
+    image: Un calendrier dont les pages tournent, chacune marquée « demain »
+    sound: Bruit de pages
+    subtitle: « Et demain… »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-16 s
+    image: Face caméra, il regarde sa montre, puis la caméra ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « …le meilleur moment, c'est demain »
+    subtitle_color: white
+- id: s05-c04
+  series: 5
+  num: 4
+  title: La box internet
+  character: pince-sans-rire
+  duration_s: 17
+  text_lines:
+  - 'Présentateur : « Comment améliorer sa connexion internet ? »'
+  - 'Expert : « Parlez à votre box, doucement. Elle n''ira pas plus vite, mais vous vous sentirez mieux.
+    »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Plateau, l'expert dans son fauteuil
+    sound: Jingle, voix du présentateur
+    subtitle: « Comment améliorer sa connexion ? »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 4-9 s
+    image: 'Gros plan : il pose une main sur son cœur'
+    sound: Voix lente, musique douce
+    subtitle: « Parlez à votre box, doucement »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: 'Insert : le personnage devant une box aux voyants clignotants, chuchotant ; la barre de chargement
+      reste à 3 %'
+    sound: Chuchotements, bip
+    subtitle: « Elle n'ira pas plus vite… »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-17 s
+    image: Face caméra, l'air apaisé ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « …mais vous vous sentirez mieux »
+    subtitle_color: white
+- id: s05-c05
+  series: 5
+  num: 5
+  title: Le sport
+  character: pince-sans-rire
+  duration_s: 17
+  text_lines:
+  - 'Présentateur : « Comment faire du sport sans effort ? »'
+  - 'Expert : « Regardez quelqu''un d''autre en faire. Le cerveau ne fait pas la différence. Les muscles,
+    si. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Plateau, l'expert dans son fauteuil
+    sound: Jingle, voix du présentateur
+    subtitle: « Comment faire du sport sans effort ? »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 4-9 s
+    image: 'Gros plan : il lève un sourcil, sûr de lui'
+    sound: Voix lente
+    subtitle: « Regardez quelqu'un d'autre en faire »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: 'Insert : le personnage sur son canapé, une télécommande à la main, devant un écran où quelqu''un
+      court'
+    sound: Musique sportive, souffle
+    subtitle: « Le cerveau ne fait pas la différence »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-17 s
+    image: Face caméra, il tapote ses bras ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « Les muscles, si »
+    subtitle_color: white
+- id: s05-c06
+  series: 5
+  num: 6
+  title: La réunion
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Présentateur : « Comment survivre à une réunion ? »'
+  - 'Expert : « Hochez régulièrement la tête, dites « tout à fait », et n''ouvrez jamais le dossier. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Plateau, l'expert dans son fauteuil
+    sound: Jingle, voix du présentateur
+    subtitle: « Comment survivre à une réunion ? »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 4-9 s
+    image: 'Gros plan : il hoche la tête plusieurs fois, très lentement'
+    sound: Voix lente
+    subtitle: « Hochez régulièrement la tête »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: 'Insert : le personnage à une table de réunion, il dit « tout à fait » alors qu''un dossier
+      reste fermé devant lui'
+    sound: Murmures de réunion
+    subtitle: « Dites « tout à fait » »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Face caméra, un doigt sur le dossier fermé ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « N'ouvrez jamais le dossier »
+    subtitle_color: white

@@ -1,0 +1,38 @@
+total_videos: 54
+series:
+- series: 1
+  key: vannes-courtes
+  name: Vannes courtes
+  character: clown
+  file: series-01-vannes-courtes.yaml
+  video_count: 12
+- series: 2
+  key: dialogues
+  name: Dialogues avec un objet
+  character: pince-sans-rire
+  file: series-02-dialogues.yaml
+  video_count: 8
+- series: 3
+  key: fausses-pubs
+  name: Fausses pubs
+  character: clown
+  file: series-03-fausses-pubs.yaml
+  video_count: 8
+- series: 4
+  key: monde-politique
+  name: Le monde politique
+  character: pince-sans-rire
+  file: series-04-monde-politique.yaml
+  video_count: 10
+- series: 5
+  key: conseil-expert
+  name: Le conseil de l'expert
+  character: pince-sans-rire
+  file: series-05-conseil-expert.yaml
+  video_count: 6
+- series: 6
+  key: dico-du-coin
+  name: Le Dico du coin
+  character: clown
+  file: series-06-dico-du-coin.yaml
+  video_count: 10

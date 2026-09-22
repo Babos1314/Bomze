@@ -1,0 +1,37 @@
+# Copy to config.yaml and fill in your own values. Never commit config.yaml
+# with real API keys - keep it in .gitignore.
+
+providers:
+  image:
+    # Provider name is only used to pick an adapter in src/image_gen.py.
+    # "stub" writes a placeholder file and lets you wire a real provider later.
+    name: stub
+    api_key_env: IMAGE_GEN_API_KEY
+    model: ""
+
+  voice:
+    name: stub
+    api_key_env: VOICE_GEN_API_KEY
+    # Two voice presets, matched to the charter's subtitle colors.
+    voices:
+      human: ""
+      object_or_presenter: ""
+
+  animate:
+    # Turns a still reference/pose image + a plan description into a short clip.
+    name: stub
+    api_key_env: ANIMATE_API_KEY
+    model: ""
+
+paths:
+  storyboards_dir: ../storyboards
+  characters_dir: ../characters
+  output_dir: ./output
+  assets_dir: ./assets
+
+ffmpeg:
+  binary: ffmpeg
+  probe_binary: ffprobe
+
+export:
+  formats: ["16:9", "9:16"]

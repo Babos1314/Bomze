@@ -1,0 +1,347 @@
+series: 4
+key: monde-politique
+name: Le monde politique
+character: pince-sans-rire
+video_count: 10
+videos:
+- id: s04-s01
+  series: 4
+  num: 1
+  title: Les promesses
+  character: pince-sans-rire
+  duration_s: 16
+  text_lines:
+  - 'Texte : « En campagne, on promet la lune. Une fois élu, on la commande, mais la livraison prend cinq
+    ans. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: 'Plan large : il est derrière son pupitre, confettis et bannières en fond, bras levés'
+    sound: Ovation, jingle
+    subtitle: « En campagne, on promet la lune »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-8 s
+    image: 'Insert : une grosse lune en carton accrochée à un fil devant un ciel de studio'
+    sound: Voix, musique solennelle
+    subtitle: « On promet la lune »
+    subtitle_color: white
+  - plan: 3
+    duration: 8-12 s
+    image: 'Écran de suivi de colis : « Commande confirmée. Livraison : 5 ans »'
+    sound: Bip de confirmation
+    subtitle: « On la commande… »
+    subtitle_color: white
+  - plan: 4
+    duration: 12-16 s
+    image: Seul devant le pupitre vide, il regarde la lune en carton ; regard caméra
+    sound: Silence 1 s, jingle
+    subtitle: « …mais la livraison prend cinq ans »
+    subtitle_color: white
+- id: s04-s02
+  series: 4
+  num: 2
+  title: Le programme
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Un programme électoral, c''est comme la notice d''un meuble : deux cents pages, et à la
+    fin il manque toujours une vis. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: 'Plan large : il pose une brique de 200 pages sur une table'
+    sound: Bruit sourd du paquet
+    subtitle: « Un programme électoral… »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Gros plan : il feuillette des pages remplies de schémas de meuble'
+    sound: Froissement de pages, voix
+    subtitle: « …c'est comme la notice d'un meuble »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: 'Plan moyen : une étagère montée de travers ; il fouille dans la boîte, vide'
+    sound: Craquement du meuble
+    subtitle: « Deux cents pages »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Face caméra, il secoue la boîte vide ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « Il manque toujours une vis »
+    subtitle_color: white
+- id: s04-s03
+  series: 4
+  num: 3
+  title: La commission
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Quand un problème est trop gros, on crée une commission. Quand la commission est trop grosse,
+    on crée un nouveau problème. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Une grosse boule rouge marquée « PROBLÈME » au centre d'une salle vide
+    sound: Bruit de fond de salle
+    subtitle: « Quand un problème est trop gros… »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: Des figurants en costume s'installent autour d'une table ; une plaque « Commission » apparaît
+    sound: Chaises qui raclent, murmures
+    subtitle: « …on crée une commission »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: 'Coupes sèches : la table s''allonge, les chaises se multiplient ; une seconde boule apparaît'
+    sound: Murmures qui montent
+    subtitle: « Quand la commission est trop grosse… »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Face caméra ; il pose la nouvelle boule sur la première ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « …on crée un nouveau problème »
+    subtitle_color: white
+- id: s04-s04
+  series: 4
+  num: 4
+  title: Le débat
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Dans un débat, on leur pose une question, et ils répondent à celle qu''ils auraient aimé
+    qu''on leur pose. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: 'Plateau de débat : deux pupitres, il est derrière l''un d''eux ; un micro tendu par un bras
+      hors champ'
+    sound: 'Ambiance de plateau, voix de journaliste : « Quel est votre bilan sur les transports ? »'
+    subtitle: « Dans un débat, on leur pose une question… »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: Gros plan sur lui, sourire poli
+    sound: 'Voix : « Excellente question. Mais la vraie question, c''est la météo de demain. »'
+    subtitle: « Excellente question »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Le journaliste (mains et micro seulement) baisse le micro ; un chronomètre affiche 1:00
+    sound: Soupir hors champ, tic-tac
+    subtitle: « …et ils répondent à une autre »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Face caméra, il lève un doigt, très sûr de lui ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « …celle qu'ils auraient aimé qu'on leur pose »
+    subtitle_color: white
+- id: s04-s05
+  series: 4
+  num: 5
+  title: La réforme
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Texte : « On a lancé une réforme pour simplifier les démarches : il suffit de remplir trois formulaires
+    pour en supprimer un. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Il annonce derrière son pupitre en brandissant un formulaire
+    sound: Voix solennelle, jingle
+    subtitle: « Une réforme pour simplifier les démarches »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Guichet : il pose trois formulaires devant un employé (on ne voit que ses mains)'
+    sound: Tampon, papier
+    subtitle: « Il suffit de remplir trois formulaires… »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Un tampon rouge « SUPPRIMÉ » sur un formulaire ; la pile de papiers grandit
+    sound: Coup de tampon, papier qui s'empile
+    subtitle: « …pour en supprimer un »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: 'Plan large : la pile de papiers dépasse sa tête ; regard caméra, jingle'
+    sound: Silence 1 s, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s04-s06
+  series: 4
+  num: 6
+  title: Le discours
+  character: pince-sans-rire
+  duration_s: 16
+  text_lines:
+  - 'Texte : « Parler une heure sans rien dire, c''est un vrai talent. Certains en ont fait leur métier.
+    »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: 'Plan fixe : il gesticule derrière son pupitre, bouche qui bouge sans qu''on entende de mots'
+    sound: Murmure de discours, jingle
+    subtitle: « Parler une heure… »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-8 s
+    image: Un chronomètre défile ; des figurants s'endorment dans la salle
+    sound: Bruit de tic-tac accéléré
+    subtitle: « …sans rien dire »
+    subtitle_color: white
+  - plan: 3
+    duration: 8-12 s
+    image: Une bulle de texte vide au-dessus de lui
+    sound: Silence
+    subtitle: « C'est un vrai talent »
+    subtitle_color: white
+  - plan: 4
+    duration: 12-16 s
+    image: Il s'arrête, applaudissements ; regard caméra, clin d'œil ; jingle
+    sound: Applaudissements, jingle
+    subtitle: « Certains en ont fait leur métier »
+    subtitle_color: white
+- id: s04-s07
+  series: 4
+  num: 7
+  title: Le rond-point
+  character: pince-sans-rire
+  duration_s: 16
+  text_lines:
+  - 'Texte : « On a construit un rond-point pour fluidifier la circulation. Résultat : on ne bouchonne
+    plus, on tourne. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: 'Plan large : il inaugure une maquette de rond-point, ciseaux en main, ruban tricolore fictif'
+    sound: Applaudissements, jingle
+    subtitle: « On a construit un rond-point »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Vue de dessus de la maquette : de petites voitures roulent en cercle'
+    sound: Voix, bruits de moteurs
+    subtitle: « Pour fluidifier la circulation »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-13 s
+    image: 'Même plan : les voitures tournent encore, aucune ne sort ; un compteur « Tour n° 47 »'
+    sound: Bruits de moteurs, tic-tac
+    subtitle: « On ne bouchonne plus… »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-16 s
+    image: Face caméra, regard blasé ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « …on tourne »
+    subtitle_color: white
+- id: s04-s08
+  series: 4
+  num: 8
+  title: Le slogan
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Un bon slogan de campagne, c''est une phrase que personne ne peut contredire, parce qu''elle
+    ne veut rien dire. "Ensemble, pour demain !" Personne n''est contre demain. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Il s'éclaircit la voix derrière son pupitre, une banderole vide dans son dos
+    sound: Toux, jingle
+    subtitle: « Un bon slogan de campagne… »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-10 s
+    image: 'La banderole se remplit : « ENSEMBLE, POUR DEMAIN ! »'
+    sound: Applaudissements, voix
+    subtitle: « Ensemble, pour demain ! »
+    subtitle_color: white
+  - plan: 3
+    duration: 10-14 s
+    image: Il cherche un contradicteur des yeux dans la salle vide
+    sound: Silence, tic-tac
+    subtitle: « Personne n'est contre demain »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Face caméra, un sourcil relevé ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s04-s09
+  series: 4
+  num: 9
+  title: Le dossier
+  character: pince-sans-rire
+  duration_s: 16
+  text_lines:
+  - 'Texte : « Un ministre qui prend un dossier à bras-le-corps, c''est un ministre qui le porte jusqu''au
+    tiroir. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Il pose un énorme dossier sur son bureau, l'air décidé
+    sound: Bruit sourd du dossier, jingle
+    subtitle: « Un dossier à bras-le-corps »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: Il le serre dans ses bras et marche lentement dans un couloir, en vacillant
+    sound: Pas lourds, voix
+    subtitle: « Un ministre qui le prend… »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-13 s
+    image: Il ouvre un grand tiroir de classeur, y glisse le dossier et le referme
+    sound: Grincement du tiroir, claquement
+    subtitle: « …jusqu'au tiroir »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-16 s
+    image: Face caméra, les mains sur le tiroir fermé ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s04-s10
+  series: 4
+  num: 10
+  title: Le bilan
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Un bilan, en politique, c''est comme un miroir : on ne s''y regarde que quand on est sûr
+    d''être bien coiffé. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Un grand miroir posé sur le pupitre, on n'y voit pas encore son reflet
+    sound: Musique solennelle, jingle
+    subtitle: « Un bilan, c'est comme un miroir »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: Il se tient à distance, lumière sombre, il se détourne
+    sound: Silence, voix
+    subtitle: « On ne s'y regarde que… »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Il se recoiffe avec un peigne, lumière flatteuse, il sourit dans le miroir
+    sound: Musique triomphante
+    subtitle: « …quand on est sûr d'être bien coiffé »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Face caméra, cheveux impeccables, sourire satisfait ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: Carton final
+    subtitle_color: white

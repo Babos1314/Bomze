@@ -1,0 +1,424 @@
+series: 1
+key: vannes-courtes
+name: Vannes courtes
+character: clown
+video_count: 12
+videos:
+- id: s01-v01
+  series: 1
+  num: 1
+  title: Le téléphone
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « On a passé vingt ans à rendre les téléphones intelligents. Réussi : ils savent tout, ils
+    devinent tout, ils corrigent même nos fautes. Reste un détail : celui qui les tient. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: 'Plan large : le personnage affalé sur un canapé, téléphone en main, l''air blasé'
+    sound: Son de notification
+    subtitle: « On a passé vingt ans… »
+    subtitle_color: white
+  - plan: 2
+    duration: 3-9 s
+    image: 'Gros plan sur l''écran : il tape un message, la correction automatique le rectifie'
+    sound: Voix off, clics de clavier
+    subtitle: « Ils savent tout, ils devinent tout »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Zoom lent sur son visage
+    sound: Voix, musique en retrait
+    subtitle: '« Reste un détail : celui qui les tient »'
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Silence, regard caméra ; l'écran s'éteint et son visage se reflète dans le noir
+    sound: Silence 1 s, puis jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s01-v02
+  series: 1
+  num: 2
+  title: Le gain de temps
+  character: clown
+  duration_s: 20
+  text_lines:
+  - 'Texte : « On a inventé le train rapide, le micro-ondes, la livraison en 10 minutes. On gagne un temps
+    fou. Et qu''est-ce qu''on en fait ? On le passe à s''énerver dans la file d''attente. »'
+  plans:
+  - plan: 1
+    duration: 0-5 s
+    image: 'Montage rapide : train, micro-ondes, livreur à vélo, coupes sèches'
+    sound: Bruitages rythmés sur la voix
+    subtitle: « Train rapide, micro-ondes, livraison en 10 minutes »
+    subtitle_color: white
+  - plan: 2
+    duration: 5-11 s
+    image: 'Plan moyen : il regarde sa montre ; un compteur « Temps gagné » grimpe à l''écran'
+    sound: Tic-tac, voix
+    subtitle: « On gagne un temps fou »
+    subtitle_color: white
+  - plan: 3
+    duration: 11-17 s
+    image: 'Plan fixe : il est dans une file d''attente ; le compteur redescend à toute vitesse'
+    sound: Bruit de compteur qui chute
+    subtitle: « On le passe à s'énerver »
+    subtitle_color: white
+  - plan: 4
+    duration: 17-20 s
+    image: Soupir face caméra
+    sound: Soupir, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s01-v03
+  series: 1
+  num: 3
+  title: Le GPS
+  character: clown
+  duration_s: 15
+  text_lines:
+  - 'Texte : « Aujourd''hui, on a des GPS qui connaissent chaque rue du monde. Il n''y a plus qu''à trouver
+    un GPS pour ceux qui les écoutent : "Faites demi-tour." Ben non, je suis sûr de moi ! »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Au volant, vu de face à travers le pare-brise
+    sound: 'Voix du GPS hors champ : « Faites demi-tour »'
+    subtitle: « Des GPS qui connaissent chaque rue »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-10 s
+    image: La phrase revient deux fois, cadre de plus en plus serré ; il hausse les épaules
+    sound: Voix du GPS répétée, moteur
+    subtitle: « Faites demi-tour »
+    subtitle_color: white
+  - plan: 3
+    duration: 10-13 s
+    image: Réplique de chute, sûr de lui, face caméra
+    sound: Voix, silence avant la chute
+    subtitle: « Ben non, je suis sûr de moi ! »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-15 s
+    image: 'Plan large : la voiture devant une route barrée'
+    sound: Klaxon, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s01-v04
+  series: 1
+  num: 4
+  title: La montre connectée
+  character: clown
+  duration_s: 16
+  text_lines:
+  - 'Texte : « J''ai une montre connectée : elle compte mes pas, mon sommeil, mon rythme cardiaque. Elle
+    sait tout de moi. Ce matin, elle m''a écrit : "Bravo, objectif atteint !" J''avais juste couru après
+    le bus. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: Gros plan sur le poignet, la montre vibre
+    sound: Bip de notification
+    subtitle: « J'ai une montre connectée »
+    subtitle_color: white
+  - plan: 2
+    duration: 3-9 s
+    image: 'Écran partagé : pas, sommeil, cœur, avec des compteurs animés'
+    sound: Voix, petits bips
+    subtitle: « Elle sait tout de moi »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-13 s
+    image: 'Plan moyen : la notification « Bravo, objectif atteint ! » ; lui, essoufflé, un arrêt de bus
+      derrière lui'
+    sound: Notification, souffle
+    subtitle: « Bravo, objectif atteint ! »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-16 s
+    image: Regard caméra, encore essoufflé
+    sound: Silence 1 s, puis jingle
+    subtitle: « J'avais juste couru après le bus »
+    subtitle_color: white
+- id: s01-v05
+  series: 1
+  num: 5
+  title: Les mots de passe
+  character: clown
+  duration_s: 15
+  text_lines:
+  - 'Texte : « Majuscule, chiffre, symbole, et surtout pas le même que le précédent. On a inventé des
+    mots de passe que personne ne peut pirater. Même pas moi. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Devant un ordinateur, le champ « Mot de passe » vide
+    sound: Clics de clavier
+    subtitle: « Majuscule, chiffre, symbole… »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: Les exigences s'ajoutent à l'écran (croix rouge, puis coche verte) ; il tape de plus en plus
+      lentement
+    sound: Bips de validation
+    subtitle: « Surtout pas le même que le précédent »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-12 s
+    image: Message « Mot de passe incorrect » ; il se tourne vers la caméra
+    sound: Buzzer, silence 1 s
+    subtitle: « Même pas moi »
+    subtitle_color: white
+  - plan: 4
+    duration: 12-15 s
+    image: Gros plan sur « Mot de passe oublié ? », un clic
+    sound: Clic, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s01-v06
+  series: 1
+  num: 6
+  title: Le frigo connecté
+  character: clown
+  duration_s: 17
+  text_lines:
+  - 'Texte : « Mon frigo est connecté : il me prévient quand il n''y a plus de lait, il règle sa température
+    tout seul. Il lui manque une seule fonction : m''empêcher de l''ouvrir pour la quatrième fois en dix
+    minutes. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Plan large de la cuisine ; l'écran du frigo affiche « Plus de lait »
+    sound: Notification
+    subtitle: « Mon frigo est connecté »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Gros plan sur l''écran : température, liste de courses'
+    sound: Voix, bips
+    subtitle: « Il règle sa température tout seul »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Il ouvre, regarde, referme, trois fois en coupes sèches ; un compteur « ×4 »
+    sound: Porte qui claque, rythme accéléré
+    subtitle: « Quatrième fois en dix minutes »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-17 s
+    image: Face caméra, éclairé par la lumière du frigo
+    sound: Silence 1 s, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s01-v07
+  series: 1
+  num: 7
+  title: Les conditions d'utilisation
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « On a créé des machines qui écrivent, qui dessinent, qui composent. Il n''en manque qu''une
+    : celle qui lit les conditions d''utilisation à notre place. En attendant, on clique sur "J''accepte".
+    Sans lire. Comme tout le monde. »'
+  plans:
+  - plan: 1
+    duration: 0-5 s
+    image: 'Montage rapide : une machine qui écrit, qui dessine, qui compose'
+    sound: Bruitages, musique vive
+    subtitle: « Elles écrivent, dessinent, composent »
+    subtitle_color: white
+  - plan: 2
+    duration: 5-10 s
+    image: 'Fenêtre de conditions d''utilisation : le texte défile à toute vitesse, la barre de défilement
+      est minuscule'
+    sound: Défilement accéléré
+    subtitle: « Il n'en manque qu'une »
+    subtitle_color: white
+  - plan: 3
+    duration: 10-15 s
+    image: Gros plan sur la souris qui hésite au-dessus de « J'accepte »
+    sound: Silence, tic-tac
+    subtitle: « Sans lire »
+    subtitle_color: white
+  - plan: 4
+    duration: 15-18 s
+    image: Clic, puis haussement d'épaules face caméra
+    sound: Clic, jingle
+    subtitle: « Comme tout le monde »
+    subtitle_color: white
+- id: s01-v08
+  series: 1
+  num: 8
+  title: Le réveil intelligent
+  character: clown
+  duration_s: 16
+  text_lines:
+  - 'Texte : « On a inventé le réveil intelligent : il analyse notre sommeil et nous réveille au meilleur
+    moment. Un vrai progrès. Il lui reste un seul problème à régler : le bouton "Répéter". »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Plan sur le lit ; le réveil affiche une courbe de cycle de sommeil
+    sound: Ambiance calme
+    subtitle: « Le réveil intelligent »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: Lumière douce, le réveil sonne en douceur
+    sound: Sonnerie douce, voix
+    subtitle: « Au meilleur moment »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-13 s
+    image: Une main sort de la couette et appuie sur « Répéter », trois fois, l'heure avance à chaque
+      fois
+    sound: Bip répété
+    subtitle: « Le bouton "Répéter" »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-16 s
+    image: 'Plan large : il dort toujours, l''horloge affiche 11 h 47'
+    sound: Silence 1 s, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s01-v09
+  series: 1
+  num: 9
+  title: Les notifications
+  character: clown
+  duration_s: 16
+  text_lines:
+  - 'Texte : « Mon téléphone m''annonce 47 nouvelles notifications. Il oublie de préciser qu''aucune n''est
+    importante. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Le clown est allongé sur le canapé, son téléphone vibre sans arrêt sur la table
+    sound: Vibrations, jingle
+    subtitle: « 47 nouvelles notifications »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Gros plan sur l''écran : les bulles s''empilent (promo, jeu, « quelqu''un a aimé »), un compteur
+      grimpe jusqu''à 47'
+    sound: Bips de plus en plus rapides
+    subtitle: « Il m'annonce… »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-13 s
+    image: Il les ouvre une à une, de plus en plus déçu ; coupes sèches
+    sound: Bips, soupirs
+    subtitle: « …mais aucune n'est importante »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-16 s
+    image: Regard caméra ; l'écran affiche « 0 importante »
+    sound: Silence 1 s, jingle
+    subtitle: Carton final
+    subtitle_color: white
+- id: s01-v10
+  series: 1
+  num: 10
+  title: Le régime
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « On a inventé le café sans caféine, le sucre sans sucre, le beurre sans matière grasse.
+    Reste à inventer le gâteau sans regrets. »'
+  plans:
+  - plan: 1
+    duration: 0-5 s
+    image: 'Montage : café, sucre, beurre en gros plan, chaque étiquette marquée d''un tampon « SANS »'
+    sound: Coups de tampon, jingle
+    subtitle: « Café sans caféine, sucre sans sucre, beurre sans matière grasse »
+    subtitle_color: white
+  - plan: 2
+    duration: 5-10 s
+    image: Le clown regarde les produits alignés sur la table, sceptique, puis hoche la tête
+    sound: Voix
+    subtitle: « On a tout inventé… »
+    subtitle_color: white
+  - plan: 3
+    duration: 10-14 s
+    image: Une part de gâteau apparaît sur la table, au ralenti ; il la fixe avec envie
+    sound: Musique douce
+    subtitle: « Reste à inventer… »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Il mange la part, puis regarde la caméra, coupable, une étiquette « Sans regrets » barrée sur
+      l'assiette
+    sound: Silence 1 s, jingle
+    subtitle: « …le gâteau sans regrets »
+    subtitle_color: white
+- id: s01-v11
+  series: 1
+  num: 11
+  title: Le communiqué météo
+  character: clown
+  duration_s: 15
+  text_lines:
+  - 'Texte : « Communiqué de la météo : demain, beau temps sur toute la France. Sauf là où vous serez.
+    »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Le clown devant une carte de France couverte de soleils, style bulletin météo
+    sound: Jingle météo
+    subtitle: « Communiqué de la météo »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: Il balaie la carte de la main, tout est ensoleillé
+    sound: Voix enjouée
+    subtitle: « Demain, beau temps sur toute la France »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-12 s
+    image: Il se penche, cherche un endroit du bout du doigt
+    sound: Silence, tic-tac
+    subtitle: « Sauf… »
+    subtitle_color: white
+  - plan: 4
+    duration: 12-15 s
+    image: Un petit nuage noir apparaît au-dessus de sa tête, il pleut ; regard caméra
+    sound: Bruit de pluie, jingle
+    subtitle: « …là où vous serez »
+    subtitle_color: white
+- id: s01-v12
+  series: 1
+  num: 12
+  title: Les bonnes résolutions
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Chaque 1er janvier, je prends de bonnes résolutions. Chaque 2 janvier, je les remets à
+    l''an prochain. Au moins, je suis constant. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Un calendrier affiche 1er janvier ; le clown écrit sa liste, fier, sous des confettis
+    sound: Musique de fête, jingle
+    subtitle: « Chaque 1er janvier, je prends de bonnes résolutions »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-8 s
+    image: Il colle la liste sur le frigo, pouces levés
+    sound: Voix enjouée
+    subtitle: « Cette année, c'est la bonne »
+    subtitle_color: white
+  - plan: 3
+    duration: 8-13 s
+    image: Le calendrier tourne ; le 2 janvier, il est sur le canapé et colle un post-it « L'an prochain
+      » sur la liste
+    sound: Bruit de pages qui tournent
+    subtitle: « Chaque 2 janvier, je les remets à l'an prochain »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-18 s
+    image: Le calendrier revient au 1er janvier, même scène ; regard caméra, sourire fier ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « Au moins, je suis constant »
+    subtitle_color: white
