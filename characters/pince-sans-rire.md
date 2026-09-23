@@ -2,7 +2,7 @@
 
 Homme d'environ 40 ans, cheveux courts en désordre, barbe de deux jours,
 sourcils très mobiles (principal outil d'expression), paupières lourdes,
-regard direct vers la caméra, pull en laine vert bouteille, pantalon gris,
+regard direct vers la caméra, pull en laine vert bouteille, jean bleu,
 chaussures en cuir marron. Ton sobre, mauvaise foi assumée, sympathique.
 
 Aucune ressemblance avec une personne réelle. Joue dans les séries
@@ -13,7 +13,7 @@ l'expert).
 
 | Série | Tenue |
 | --- | --- |
-| 2 (dialogues) | Pull vert bouteille, pantalon gris |
+| 2 (dialogues) | Pull vert bouteille, jean bleu |
 | 4 (monde politique) | Même pull sous une veste sombre, cravate desserrée |
 | 5 (conseil de l'expert) | Veste sombre sur le pull vert bouteille |
 
@@ -22,7 +22,7 @@ l'expert).
 ```
 Semi-realistic animated character, man around 40, short messy dark hair,
 two-day stubble, very expressive mobile eyebrows with heavy eyelids, deadpan
-look, bottle-green wool sweater, grey trousers, brown leather shoes, soft
+look, bottle-green wool sweater, blue jeans, brown leather shoes, soft
 studio lighting, plain light-grey background. Three views side by side:
 front, three-quarter, side. Consistent proportions, original face, 16:9
 ```
@@ -50,7 +50,7 @@ Pose :
 ```
 Same character as the reference image: semi-realistic animated man around 40,
 short messy dark hair, two-day stubble, very expressive mobile eyebrows with
-heavy eyelids, bottle-green wool sweater, grey trousers, brown leather shoes.
+heavy eyelids, bottle-green wool sweater, blue jeans, brown leather shoes.
 Pose: [POSE], exaggerated expression, eyes looking directly into the lens.
 Three-quarter body framing, both hands clearly visible with five fingers each,
 soft studio lighting, plain light-grey background, 16:9
