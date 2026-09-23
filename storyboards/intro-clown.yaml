@@ -1,0 +1,32 @@
+id: intro-clown
+type: intro
+title: Présentation du clown
+character: clown
+duration_s: 6
+concept: >
+  Bumper de présentation du personnage : joue sur le fait que sa combinaison
+  rayée noir et blanc ressemble à une tenue de prisonnier, pour clarifier
+  tout de suite qu'il n'est pas enfermé - il a juste trop fait rire.
+plans:
+- plan: 1
+  duration: 0-3 s
+  image: >
+    Le clown, mains levées près des épaules, paumes ouvertes, geste
+    rassurant façon "pas de panique", sourire innocent, regard caméra
+  pose_key: reassuring_hands_up
+  sound: Jingle d'intro
+  subtitle: Non, je ne suis pas en prison.
+  subtitle_color: white
+- plan: 2
+  duration: "3-4 s"
+  image: Silence, aucun mouvement, juste le regard caméra
+  sound: Silence 1 s
+  subtitle: ""
+  subtitle_color: white
+- plan: 3
+  duration: 4-6 s
+  image: Pouces levés, grand sourire fier, regard caméra
+  pose_key: thumbs_up
+  sound: Jingle
+  subtitle: J'ai juste trop fait rire.
+  subtitle_color: white

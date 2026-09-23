@@ -2,7 +2,7 @@
   "character": "clown",
   "reference": "See ../clown.md for the base reference-sheet prompt",
   "note": "Curated, de-duplicated pose library: one prompt per recurring hand-visible action, reused across every storyboard that needs it (see used_in).",
-  "count": 24,
+  "count": 25,
   "poses": [
     {
       "key": "phone_buzzing_on_table",
@@ -195,6 +195,14 @@
         "s01-v07 Les conditions d'utilisation"
       ],
       "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: one hand hovering hesitantly over a computer mouse, about to click, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
+    },
+    {
+      "key": "reassuring_hands_up",
+      "label_fr": "Mains levées près des épaules, paumes ouvertes, geste rassurant",
+      "used_in": [
+        "intro-clown Présentation du clown"
+      ],
+      "prompt": "Same character as the reference image: cheerful comedic animated man around 40, chubby build, big round friendly face, bushy eyebrows, tousled messy dark hair, small round red-tinted nose, black and white horizontally striped jumpsuit, worn brown boots. Pose: both hands raised near the shoulders, palms open in a reassuring \"don't worry\" gesture, innocent wide smile, exaggerated expression, eyes looking directly into the lens. Three-quarter body framing, both hands clearly visible with five fingers each, soft studio lighting, plain light-grey background, 16:9"
     },
     {
       "key": "hand_pressing_snooze",
