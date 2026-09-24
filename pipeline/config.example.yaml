@@ -16,7 +16,9 @@ providers:
     # Pick two voice IDs from https://elevenlabs.io/app/voice-lab (or the
     # "Voices" tab of your account) and paste them below.
     voices:
-      human: "PASTE_VOICE_ID_HERE"
+      # Chosen: "Orion - Content Creator" (from the ElevenLabs Voice
+      # Library). Open its voice card and copy its Voice ID here.
+      human: "PASTE_ORION_VOICE_ID_HERE"
       object_or_presenter: "PASTE_VOICE_ID_HERE"
 
   animate:
