@@ -1,6 +1,6 @@
 # Livre de coloriage — Tome 1 : Bébé Dinosaure
 
-**Statut : v2 en cours — 1/20 pages validées.** La page 1 a été régénérée avec plus de détails (motif sur le ballon, ligne de sol) ; on relance les 19 autres avec les prompts corrigés ci-dessous pour une base cohérente. Les anciennes images (v1) sont archivées dans `images/archive-v1/` à titre de référence — elles ne font plus partie du livre final. La couverture (`couverture/`) n'est pas affectée par ce changement (elle vient d'une image séparée). Le PDF intérieur a été supprimé, il sera reconstruit une fois les 20 pages v2 validées.
+**Statut : v2 en cours — 1/20 pages validées.** La page 1 est conservée telle quelle (validée). Pour la page 2, on teste un prompt avec un décor plus fourni (arbre, lucioles, collines) — si le rendu plaît, on pourra étendre ce niveau de décor aux autres pages. Les anciennes images (v1) sont archivées dans `images/archive-v1/` à titre de référence — elles ne font plus partie du livre final. La couverture (`couverture/`) n'est pas affectée par ce changement (elle vient d'une image séparée). Le PDF intérieur a été supprimé, il sera reconstruit une fois les 20 pages v2 validées.
 
 **Titre validé :** Mon Copain Dino — Cahier de Coloriage
 **Format validé :** 8.5x8.5 in (carré), intérieur N&B, couverture couleur
@@ -32,14 +32,17 @@ Centered composition, filling the page nicely without being cropped at the edges
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 2 — Dort dans son nid
+## Page 2 — Dort dans son nid (v2 — décor enrichi)
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big curious eyes closed while sleeping, and a peaceful gentle smile,
 curled up asleep inside a soft round nest woven from patterned leaves with simple vein details, one small arm tucked under its head.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-A simple ground line under the nest. Minimal simple background: a crescent moon and a couple of small stars, no clutter.
+A simple ground line under the nest. Full night-time background scene: the nest rests at the base of a large tree with a thick
+textured trunk and a low branch extending overhead, a few leafy bushes and tufts of grass around the base of the tree,
+two or three small fireflies with tiny glow circles floating nearby, a crescent moon with a simple craters detail and
+a scattering of stars of different sizes filling the sky, and soft rolling hill lines in the distance.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
