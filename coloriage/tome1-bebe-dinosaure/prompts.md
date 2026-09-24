@@ -2,6 +2,9 @@
 
 **Statut : 20/20 pages générées et validées ✅, couverture en cours** — voir le dossier `images/` pour les pages intérieures et `couverture/` pour la couverture.
 
+**Titre validé :** Mon Copain Dino — Cahier de Coloriage
+**Format validé :** 8.5x8.5 in (carré), intérieur N&B, couverture couleur
+
 Personnage principal : bébé dinosaure rondouillard, expression joyeuse/curieuse (cohérent avec l'univers comptines de Babos).
 Style : line art noir et blanc pur, aucune couleur, aucun ombrage, traits épais et lisibles, fond simple, composition centrée.
 
@@ -255,9 +258,11 @@ Style: friendly children's coloring book illustration, smooth rounded shapes, no
 
 Illustration du personnage retenue pour la couverture (voir `couverture/couverture-personnage.png`) : rendu Pixar-style 3D en couleur, cohérent avec la bible comptines. Ça fixe aussi une palette de référence pour le perso : vert avec crête/dos orange, ventre jaune.
 
+Maquette recto avec titre : `couverture/couverture-mockup-8.5x8.5.png` (2550x2550px, 300 DPI, format 8.5x8.5in).
+
 Reste à faire avant impression KDP :
-- Ajouter le titre du livre (+ éventuellement nom d'auteur) sur le visuel
-- Construire la couverture complète (recto + dos + tranche pour l'impression papier, dimensions calculées selon le nombre de pages et le format choisi — l'outil de gabarit KDP donne les dimensions exactes)
+- Valider/ajuster la maquette de couverture (titre, couleurs, mise en page)
+- Construire la couverture complète (recto + dos + tranche pour l'impression papier — l'outil de gabarit KDP donne les dimensions exactes selon le nombre de pages et le type de papier)
 
 ## Suite
 
