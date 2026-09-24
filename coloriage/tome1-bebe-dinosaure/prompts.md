@@ -260,9 +260,19 @@ Illustration du personnage retenue pour la couverture (voir `couverture/couvertu
 
 Maquette recto avec titre : `couverture/couverture-mockup-8.5x8.5.png` (2550x2550px, 300 DPI, format 8.5x8.5in).
 
+**Couverture complète recto+dos+tranche (impression papier) :**
+- `couverture/couverture-kdp-recto-dos-tranche.png` — fichier prêt à l'upload
+- `couverture/couverture-kdp-recto-dos-tranche-GUIDES.png` — même fichier avec repères visuels (rouge = bords de coupe, bleu = tranche, vert = marge de sécurité) pour vérification, à NE PAS utiliser pour l'upload final
+
+Calcul utilisé (à reconfirmer avec l'outil officiel KDP avant publication) :
+- Format papier interieur : 40 pages (20 illustrations + 20 pages verso vierges, pour éviter que les feutres/crayons ne traversent et pour dépasser le minimum KDP de 24 pages)
+- Papier blanc, intérieur N&B → facteur tranche = 0,002252 in/page → tranche ≈ 0,090 in
+- Dimensions totales : 17,343 x 8,753 in (5203 x 2626 px, 300 DPI), bleed 0,125 in sur les bords extérieurs
+- Zone réservée au code-barres ISBN indiquée sur le dos (KDP l'ajoute automatiquement à l'upload)
+
 Reste à faire avant impression KDP :
-- Valider/ajuster la maquette de couverture (titre, couleurs, mise en page)
-- Construire la couverture complète (recto + dos + tranche pour l'impression papier — l'outil de gabarit KDP donne les dimensions exactes selon le nombre de pages et le type de papier)
+- Vérifier la tranche exacte avec le calculateur de couverture officiel KDP une fois le nombre de pages définitif de l'intérieur confirmé (dépend du choix final : pages verso vierges ou non, pages de garde ajoutées, etc.)
+- Relire/valider les textes du dos (résumé, mentions)
 
 ## Suite
 
