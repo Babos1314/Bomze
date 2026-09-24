@@ -1,6 +1,6 @@
 # Livre de coloriage — Tome 1 : Bébé Dinosaure
 
-**Statut : 20/20 pages générées et validées ✅, couverture en cours** — voir le dossier `images/` pour les pages intérieures et `couverture/` pour la couverture.
+**Statut : 20/20 pages générées et validées ✅, couverture ✅, PDF intérieur assemblé ✅** — voir `images/` (sources), `couverture/` (couverture) et `interieur/tome1-interieur.pdf` (fichier intérieur prêt pour KDP).
 
 **Titre validé :** Mon Copain Dino — Cahier de Coloriage
 **Format validé :** 8.5x8.5 in (carré), intérieur N&B, couverture couleur
@@ -271,8 +271,21 @@ Calcul utilisé (à reconfirmer avec l'outil officiel KDP avant publication) :
 - Zone réservée au code-barres ISBN indiquée sur le dos (KDP l'ajoute automatiquement à l'upload)
 
 Reste à faire avant impression KDP :
-- Vérifier la tranche exacte avec le calculateur de couverture officiel KDP une fois le nombre de pages définitif de l'intérieur confirmé (dépend du choix final : pages verso vierges ou non, pages de garde ajoutées, etc.)
+- Vérifier la tranche exacte avec le calculateur de couverture officiel KDP (l'intérieur fait maintenant 40 pages confirmées, voir ci-dessous — recalculer si ce nombre change)
 - Relire/valider les textes du dos (résumé, mentions)
+
+## PDF intérieur
+
+Fichier : `interieur/tome1-interieur.pdf` — 40 pages, 8.5x8.5in (612x612pt) chacune, 300 DPI.
+
+Structure : les 20 illustrations occupent les pages impaires (1, 3, 5… 39, côté recto), chaque illustration est suivie d'une page blanche (paire, verso) pour éviter que les feutres/crayons ne traversent sur la page suivante. Ordre = numérotation des fichiers `images/page-01…page-20`.
+
+Marges utilisées (norme KDP pour un livre de cette taille) :
+- Intérieur (côté reliure) : 0,5 in
+- Extérieur / haut / bas : 0,375 in
+- Chaque illustration est recentrée dans cette zone en conservant ses proportions (pas de recadrage)
+
+Point de vigilance qualité : les images sources font entre ~992px et ~1536px de large, agrandies à 2550px (300 DPI en 8.5in) — l'agrandissement reste correct pour du line art à traits épais, mais si tu veux un rendu plus net à l'impression, régénérer les images sources en plus haute résolution avant l'assemblage final améliorerait la netteté.
 
 ## Suite
 
