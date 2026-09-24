@@ -1,6 +1,6 @@
 # Livre de coloriage — Tome 1 : Bébé Dinosaure
 
-**Statut : 20/20 pages générées et validées ✅, couverture ✅, PDF intérieur assemblé ✅** — voir `images/` (sources), `couverture/` (couverture) et `interieur/tome1-interieur.pdf` (fichier intérieur prêt pour KDP).
+**Statut : v2 en cours — 1/20 pages validées.** La page 1 a été régénérée avec plus de détails (motif sur le ballon, ligne de sol) ; on relance les 19 autres avec les prompts corrigés ci-dessous pour une base cohérente. Les anciennes images (v1) sont archivées dans `images/archive-v1/` à titre de référence — elles ne font plus partie du livre final. La couverture (`couverture/`) n'est pas affectée par ce changement (elle vient d'une image séparée). Le PDF intérieur a été supprimé, il sera reconstruit une fois les 20 pages v2 validées.
 
 **Titre validé :** Mon Copain Dino — Cahier de Coloriage
 **Format validé :** 8.5x8.5 in (carré), intérieur N&B, couverture couleur
@@ -8,18 +8,26 @@
 Personnage principal : bébé dinosaure rondouillard, expression joyeuse/curieuse (cohérent avec l'univers comptines de Babos).
 Style : line art noir et blanc pur, aucune couleur, aucun ombrage, traits épais et lisibles, fond simple, composition centrée.
 
-Chaque prompt est prêt à copier-coller dans le générateur d'images. La base commune (personnage + style) est répétée dans chaque prompt pour garder la cohérence visuelle d'une page à l'autre.
+## Ce qui change en v2
+
+Le prompt v1 disait "no fine details", ce qui a parfois donné des objets trop plats (ex. le ballon uni de la page 1). Corrigé en v2 :
+- Les objets/accessoires peuvent porter un **motif décoratif simple** (étoiles, spirales, rayures, pois)
+- Ajout d'une **ligne de sol** sous le personnage pour ancrer la composition
+- Le reste de la consigne (fond simple, pas d'ombrage, traits épais) ne change pas
+
+Chaque prompt est prêt à copier-coller dans le générateur d'images.
 
 ---
 
-## Page 1 — Joue avec un ballon (validée ✅)
+## Page 1 — Joue avec un ballon (validée v2 ✅)
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a happy open-mouth smile,
-playing with a large round ball, mid-bounce pose with one small arm reaching up.
+playing with a large round ball decorated with a star-and-swirl pattern, mid-bounce pose with one small arm reaching up.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a few rounded clouds and a single small flower, no clutter, no fine details.
+A simple ground line under the character. Minimal simple background: a few rounded clouds and a single small flower
+on the ground, no clutter beyond the ball's pattern.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
@@ -29,9 +37,9 @@ Style: friendly children's coloring book illustration, smooth rounded shapes, no
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big curious eyes closed while sleeping, and a peaceful gentle smile,
-curled up asleep inside a soft round nest lined with leaves, one small arm tucked under its head.
+curled up asleep inside a soft round nest woven from patterned leaves with simple vein details, one small arm tucked under its head.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a crescent moon and a couple of small stars, no clutter, no fine details.
+A simple ground line under the nest. Minimal simple background: a crescent moon and a couple of small stars, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
@@ -41,9 +49,9 @@ Style: friendly children's coloring book illustration, smooth rounded shapes, no
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a happy open-mouth smile,
-sitting down and holding a large round apple with both small arms, about to take a bite.
+sitting down and holding a large round apple with a simple leaf and highlight detail, about to take a bite.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a small tree with a few round leaves, no clutter, no fine details.
+A simple ground line under the character. Minimal simple background: a small tree with a few round leaves, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
@@ -53,117 +61,117 @@ Style: friendly children's coloring book illustration, smooth rounded shapes, no
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and an open-mouth smile,
-walking forward curiously through a simple forest path, looking up at a tall tree.
+walking forward curiously through a simple forest path, looking up at a tall tree, next to a mushroom with polka-dot pattern on its cap.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: two or three simple rounded trees and a small mushroom, no clutter, no fine details.
+A simple ground line / path under the character. Minimal simple background: two or three simple rounded trees, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 5 — Fait un câlin à un ami (oisillon)
+## Page 5 — Câlin avec un oisillon
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a warm happy smile,
-gently hugging a small round baby bird with both little arms, both characters facing forward.
+gently hugging a small round baby bird with simple feather line details on its wings, both characters facing forward.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: one small cloud and a tiny heart shape above them, no clutter, no fine details.
+A simple ground line under the characters. Minimal simple background: one small cloud and a tiny heart shape above them, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 6 — Éclabousse dans une flaque d'eau
+## Page 6 — Éclabousse dans une flaque
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a laughing open-mouth smile,
-jumping with both feet into a round puddle, small water droplets splashing up around its feet.
+jumping with both feet into a round puddle with simple ripple line details, small water droplets splashing up around its feet.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: one small cloud and a couple of raindrop shapes, no clutter, no fine details.
+A simple ground line under the puddle. Minimal simple background: one small cloud and a couple of raindrop shapes, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 7 — Fait du toboggan
+## Page 7 — Toboggan
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and an excited open-mouth smile,
-sliding down a simple curved slide with both arms raised in the air.
+sliding down a simple curved slide decorated with a diagonal stripe pattern, both arms raised in the air.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a small cloud and a single star, no clutter, no fine details.
+A simple ground line at the base of the slide. Minimal simple background: a small cloud and a single star, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 8 — Fait de la peinture
+## Page 8 — Peinture
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a happy open-mouth smile,
-holding a paintbrush in one small hand and painting a simple round shape on an easel in front of it.
+holding a paintbrush in one small hand and painting a simple spiral swirl on a canvas propped on an easel in front of it.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a small round paint palette on the ground, no clutter, no fine details.
+A simple ground line under the character. Minimal simple background: a small round paint palette with a few paint blob shapes on the ground, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 9 — Vole un cerf-volant
+## Page 9 — Cerf-volant
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a happy open-mouth smile,
-standing and holding a string attached to a simple diamond-shaped kite flying above it.
+standing and holding a string attached to a diamond-shaped kite decorated with a star pattern and a bow-tied tail, flying above it.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: two small clouds, no clutter, no fine details.
+A simple ground line under the character. Minimal simple background: two small clouds, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 10 — Construit un château de sable
+## Page 10 — Château de sable
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a happy open-mouth smile,
-sitting and patting the top of a simple round sandcastle with a small flag on top.
+sitting and patting the top of a round sandcastle with simple brick-block line details and a small flag on top.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a simple wavy line suggesting the sea and one small shell, no clutter, no fine details.
+A simple ground line for the sand. Minimal simple background: a simple wavy line suggesting the sea and one small shell, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 11 — Fait du vélo
+## Page 11 — Tricycle
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and an excited open-mouth smile,
-riding a simple small tricycle, both small hands on the handlebars.
+riding a simple small tricycle with a striped pattern on the wheels, both small hands on the handlebars.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a single small cloud and a short curved road line, no clutter, no fine details.
+A simple ground line / short road under the tricycle. Minimal simple background: a single small cloud, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 12 — Souffle des bulles de savon
+## Page 12 — Bulles de savon
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a gentle smile with rounded lips,
-holding a small bubble wand and blowing several round soap bubbles into the air.
+holding a small bubble wand and blowing several round soap bubbles into the air, each with a simple highlight swirl detail.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a few extra floating round bubbles, no clutter, no fine details.
+A simple ground line under the character. Minimal simple background: no clutter beyond the floating bubbles.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 13 — Lit un livre
+## Page 13 — Lecture
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a soft smile,
-sitting cross-legged and holding an open picture book with both small arms, looking down at the pages.
+sitting cross-legged and holding an open picture book decorated with a simple star-and-moon pattern on its cover, looking down at the pages.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a small round cushion under it, no clutter, no fine details.
+A simple ground line under the character. Minimal simple background: a small round cushion with a patterned edge under it, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
@@ -175,7 +183,7 @@ Coloring book page, black and white line art only, no color, no shading, no grad
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a laughing open-mouth smile,
 dancing playfully with both small arms up and one leg lifted mid-step.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a couple of small musical note shapes floating nearby, no clutter, no fine details.
+A simple ground line under the character. Minimal simple background: a couple of small musical note shapes floating nearby, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
@@ -185,69 +193,69 @@ Style: friendly children's coloring book illustration, smooth rounded shapes, no
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a gentle happy smile,
-holding a small watering can and tipping it over a row of simple round flowers.
+holding a small watering can decorated with a simple polka-dot pattern, tipping it over a row of flowers with detailed petal lines.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a small patch of grass, no clutter, no fine details.
+A simple ground line / patch of grass under the character. No clutter beyond the described elements.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 16 — Se cache derrière un rocher (coucou)
+## Page 16 — Coucou derrière un rocher
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a playful open-mouth smile,
-peeking out from behind a simple round rock with both small hands on the edge of the rock.
+peeking out from behind a round rock with simple crack-line texture details, both small hands on the edge of the rock.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a single small cloud, no clutter, no fine details.
+A simple ground line under the rock. Minimal simple background: a single small cloud, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 17 — Fait un bonhomme de neige
+## Page 17 — Bonhomme de neige
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a happy open-mouth smile,
-standing next to a simple three-ball snowman, patting the top snowball with one small hand.
+standing next to a three-ball snowman wearing a striped scarf and a small hat, patting the top snowball with one small hand.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a couple of simple snowflake shapes, no clutter, no fine details.
+A simple ground line of snow under both characters. Minimal simple background: a couple of simple snowflake shapes, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 18 — Souffle les bougies d'un gâteau d'anniversaire
+## Page 18 — Gâteau d'anniversaire
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and rounded cheeks puffed out while blowing,
-sitting in front of a simple round birthday cake with three candles on top.
+sitting in front of a round birthday cake decorated with a wavy icing pattern and three candles on top.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a couple of small confetti shapes in the air, no clutter, no fine details.
+A simple ground line under the character. Minimal simple background: a couple of small confetti shapes in the air, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 19 — Grimpe sur un petit rocher
+## Page 19 — Escalade
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a determined happy smile,
-climbing up a small rounded rock formation with both small arms reaching upward.
+climbing up a rounded rock formation with simple crack-line texture details, both small arms reaching upward.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a single small cloud and a tuft of grass at the base, no clutter, no fine details.
+A simple ground line at the base. Minimal simple background: a single small cloud and a tuft of grass, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
 
-## Page 20 — Fait un pique-nique
+## Page 20 — Pique-nique
 
 ```
 Coloring book page, black and white line art only, no color, no shading, no gradients.
 A cute, chubby baby dinosaur character with a round belly, big joyful curious eyes, and a happy open-mouth smile,
-sitting on a simple round picnic blanket next to a small basket, holding a sandwich with both hands.
+sitting on a round picnic blanket with a simple checkered pattern, next to a woven basket, holding a sandwich with both hands.
 Simple, clean, thick bold outlines suitable for a young child to color in easily.
-Minimal simple background: a small tree in the distance, no clutter, no fine details.
+A simple ground line under the blanket. Minimal simple background: a small tree in the distance, no clutter.
 Centered composition, filling the page nicely without being cropped at the edges.
 Style: friendly children's coloring book illustration, smooth rounded shapes, no crosshatching, no textures.
 ```
@@ -256,7 +264,7 @@ Style: friendly children's coloring book illustration, smooth rounded shapes, no
 
 ## Couverture
 
-Illustration du personnage retenue pour la couverture (voir `couverture/couverture-personnage.png`) : rendu Pixar-style 3D en couleur, cohérent avec la bible comptines. Ça fixe aussi une palette de référence pour le perso : vert avec crête/dos orange, ventre jaune.
+Illustration du personnage retenue pour la couverture (voir `couverture/couverture-personnage.png`) : rendu Pixar-style 3D en couleur, cohérent avec la bible comptines. Ça fixe aussi une palette de référence pour le perso : vert avec crête/dos orange, ventre jaune. **Non affectée par la mise à jour v2** (image indépendante des pages intérieures).
 
 Maquette recto avec titre : `couverture/couverture-mockup-8.5x8.5.png` (2550x2550px, 300 DPI, format 8.5x8.5in).
 
@@ -271,32 +279,11 @@ Calcul utilisé (à reconfirmer avec l'outil officiel KDP avant publication) :
 - Zone réservée au code-barres ISBN indiquée sur le dos (KDP l'ajoute automatiquement à l'upload)
 
 Reste à faire avant impression KDP :
-- Vérifier la tranche exacte avec le calculateur de couverture officiel KDP (l'intérieur fait maintenant 40 pages confirmées, voir ci-dessous — recalculer si ce nombre change)
+- Régénérer les 19 pages restantes avec les prompts v2 ci-dessus
+- Une fois les 20 pages v2 validées, reconstruire le PDF intérieur (`interieur/tome1-interieur.pdf`, supprimé car basé sur les images v1)
+- Vérifier la tranche exacte avec le calculateur de couverture officiel KDP
 - Relire/valider les textes du dos (résumé, mentions)
 
-## PDF intérieur
+## Fiche produit
 
-Fichier : `interieur/tome1-interieur.pdf` — 40 pages, 8.5x8.5in (612x612pt) chacune, 300 DPI.
-
-Structure : les 20 illustrations occupent les pages impaires (1, 3, 5… 39, côté recto), chaque illustration est suivie d'une page blanche (paire, verso) pour éviter que les feutres/crayons ne traversent sur la page suivante. Ordre = numérotation des fichiers `images/page-01…page-20`.
-
-Marges utilisées (norme KDP pour un livre de cette taille) :
-- Intérieur (côté reliure) : 0,5 in
-- Extérieur / haut / bas : 0,375 in
-- Chaque illustration est recentrée dans cette zone en conservant ses proportions (pas de recadrage)
-
-Point de vigilance qualité : les images sources font entre ~992px et ~1536px de large, agrandies à 2550px (300 DPI en 8.5in) — l'agrandissement reste correct pour du line art à traits épais, mais si tu veux un rendu plus net à l'impression, régénérer les images sources en plus haute résolution avant l'assemblage final améliorerait la netteté.
-
-## Suite
-
-Tome 1 complet à 20 pages. Pour aller plus loin :
-- Ajouter des pages (24-30 pour un format KDP plus étoffé : pêche, cache-cache, bateau en papier, musique, etc.)
-- Finaliser la couverture (titre, dos, tranche)
-- Passer à la mise en page KDP (assemblage PDF, marges, ordre des pages)
-
-## Pense-bête KDP (rappel)
-- Format : 8.5x8.5 in ou 8.5x11 in
-- Résolution : 300 DPI
-- Nombre de pages coloriage : 20 à 50 (tome 1 à 20 pages, dans la fourchette basse)
-- Prévoir une page de titre/couverture cohérente avec le personnage
-- Vérifier les specs à jour sur la page KDP officielle avant publication
+Voir `fiche-produit-kdp.md` (titre, description, mots-clés, catégories, prix indicatif) — non affectée par la mise à jour v2 des images.
