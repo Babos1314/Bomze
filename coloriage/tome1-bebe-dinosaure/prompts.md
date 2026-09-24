@@ -1,5 +1,7 @@
 # Livre de coloriage — Tome 1 : Bébé Dinosaure
 
+**Statut : 20/20 pages générées et validées ✅** — voir le dossier `images/` pour tous les fichiers.
+
 Personnage principal : bébé dinosaure rondouillard, expression joyeuse/curieuse (cohérent avec l'univers comptines de Babos).
 Style : line art noir et blanc pur, aucune couleur, aucun ombrage, traits épais et lisibles, fond simple, composition centrée.
 
@@ -251,11 +253,14 @@ Style: friendly children's coloring book illustration, smooth rounded shapes, no
 
 ## Suite
 
-Si tu veux aller jusqu'à 24-30 pages (format KDP courant), dis-moi et j'ajoute d'autres scènes (pêche, cache-cache, fait du bateau en papier, joue de la musique, etc.). Sinon ces 20 pages suffisent déjà pour un tome 1 solide.
+Tome 1 complet à 20 pages. Pour aller plus loin :
+- Ajouter des pages (24-30 pour un format KDP plus étoffé : pêche, cache-cache, bateau en papier, musique, etc.)
+- Préparer une page de titre/couverture
+- Passer à la mise en page KDP (assemblage PDF, marges, ordre des pages)
 
 ## Pense-bête KDP (rappel)
 - Format : 8.5x8.5 in ou 8.5x11 in
 - Résolution : 300 DPI
-- Nombre de pages coloriage : 20 à 50 (on est à 20 ici)
+- Nombre de pages coloriage : 20 à 50 (tome 1 à 20 pages, dans la fourchette basse)
 - Prévoir une page de titre/couverture cohérente avec le personnage
 - Vérifier les specs à jour sur la page KDP officielle avant publication
