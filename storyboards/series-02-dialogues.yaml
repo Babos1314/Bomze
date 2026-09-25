@@ -1,0 +1,373 @@
+series: 2
+key: dialogues
+name: Dialogues avec un objet
+character: pince-sans-rire
+video_count: 8
+videos:
+- id: s02-d01
+  series: 2
+  num: 1
+  title: Le GPS
+  character: pince-sans-rire
+  duration_s: 20
+  text_lines:
+  - 'GPS : « Dans 200 mètres, tournez à droite. »'
+  - 'Lui : « Non, je connais un raccourci. »'
+  - 'GPS : « Recalcul de l''itinéraire. »'
+  - 'Lui : « Tu vois ? Si tu recalcules, c''est que tu te trompais. »'
+  - 'GPS : « Dans 500 mètres, faites demi-tour. »'
+  - 'Lui : « Bon, disons que c''était un test. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: Gros plan sur l'écran du GPS, la flèche indique la droite
+    sound: Voix du GPS
+    subtitle: « Tournez à droite »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 3-6 s
+    image: Il conduit, sûr de lui, l'air malin
+    sound: Voix, moteur
+    subtitle: « Non, je connais un raccourci »
+    subtitle_color: white
+  - plan: 3
+    duration: 6-10 s
+    image: 'Écran du GPS : le trajet se redessine'
+    sound: Bip de recalcul
+    subtitle: « Recalcul de l'itinéraire »
+    subtitle_color: yellow
+  - plan: 4
+    duration: 10-14 s
+    image: Il tapote l'écran, triomphant
+    sound: Voix
+    subtitle: « Si tu recalcules, c'est que tu te trompais »
+    subtitle_color: white
+  - plan: 5
+    duration: 14-17 s
+    image: Route barrée en vue, écran du GPS en gros plan
+    sound: Silence 1 s
+    subtitle: « Faites demi-tour »
+    subtitle_color: yellow
+  - plan: 6
+    duration: 17-20 s
+    image: Regard caméra, sourire gêné ; jingle
+    sound: Voix, jingle
+    subtitle: « Disons que c'était un test »
+    subtitle_color: white
+- id: s02-d02
+  series: 2
+  num: 2
+  title: Le frigo
+  character: pince-sans-rire
+  duration_s: 20
+  text_lines:
+  - 'Frigo : « La porte est ouverte depuis trois minutes. »'
+  - 'Lui : « Je réfléchis. »'
+  - 'Frigo : « Il y a du beurre, de la moutarde et un citron. »'
+  - 'Lui : « Je réfléchis à ce que je pourrais en faire. »'
+  - 'Frigo : « Je vous conseille la livraison. »'
+  - 'Lui : « Toi, tu ne sers à rien. »'
+  - 'Frigo : « Je suis le seul ici à vous dire la vérité. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: Il est planté devant le frigo ouvert, la lumière sur le visage
+    sound: Bourdonnement du frigo
+    subtitle: « La porte est ouverte depuis trois minutes »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 3-6 s
+    image: Gros plan sur lui, l'air songeur
+    sound: Silence, voix
+    subtitle: « Je réfléchis »
+    subtitle_color: white
+  - plan: 3
+    duration: 6-10 s
+    image: 'Plan sur l''intérieur : beurre, moutarde, citron'
+    sound: Voix du frigo
+    subtitle: « Du beurre, de la moutarde et un citron »
+    subtitle_color: yellow
+  - plan: 4
+    duration: 10-14 s
+    image: Il se gratte le menton, puis regarde la caméra
+    sound: Voix
+    subtitle: « Je réfléchis à ce que je pourrais en faire »
+    subtitle_color: white
+  - plan: 5
+    duration: 14-17 s
+    image: 'Écran du frigo : « Commander ? » ; il lève les yeux au ciel'
+    sound: Bip de notification
+    subtitle: « Je vous conseille la livraison »
+    subtitle_color: yellow
+  - plan: 6
+    duration: 17-20 s
+    image: Il claque la porte ; le frigo répond sur l'écran
+    sound: Claquement, silence 1 s, jingle
+    subtitle: « Le seul ici à vous dire la vérité »
+    subtitle_color: yellow
+- id: s02-d03
+  series: 2
+  num: 3
+  title: La montre connectée
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Montre : « Objectif du jour : 10 000 pas. Pas actuels : 312. »'
+  - 'Lui : « Je les fais en pensée. »'
+  - 'Montre : « Je ne compte pas la pensée. »'
+  - 'Lui : « C''est bien ce que je disais : tu n''as aucune imagination. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: 'Il est affalé sur le canapé ; gros plan sur la montre : 312 pas'
+    sound: Bip
+    subtitle: « 312 pas sur 10 000 »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 4-8 s
+    image: Il ferme les yeux, l'air inspiré
+    sound: Voix, musique calme
+    subtitle: « Je les fais en pensée »
+    subtitle_color: white
+  - plan: 3
+    duration: 8-12 s
+    image: Gros plan sur la montre, vibration
+    sound: Bip sec
+    subtitle: « Je ne compte pas la pensée »
+    subtitle_color: yellow
+  - plan: 4
+    duration: 12-18 s
+    image: Il regarde la montre, offusqué, puis face caméra ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « Tu n'as aucune imagination »
+    subtitle_color: white
+- id: s02-d04
+  series: 2
+  num: 4
+  title: Le réveil
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Réveil : « Il est 7 heures. C''est le meilleur moment de votre cycle de sommeil. »'
+  - 'Lui : « C''est surtout le meilleur moment pour dormir. »'
+  - 'Réveil : « Je vous ai laissé dormir huit heures. »'
+  - 'Lui : « Et c''est déjà fini ? »'
+  - 'Réveil : « Voulez-vous répéter l''alarme ? »'
+  - 'Lui : « Enfin quelqu''un qui me comprend. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: Chambre en pénombre, le réveil affiche 7:00
+    sound: Sonnerie douce
+    subtitle: « Le meilleur moment de votre cycle »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 3-6 s
+    image: Une main sort de la couette
+    sound: Voix étouffée
+    subtitle: « Le meilleur moment pour dormir »
+    subtitle_color: white
+  - plan: 3
+    duration: 6-10 s
+    image: Gros plan sur le réveil, l'écran affiche 8 h de sommeil
+    sound: Voix du réveil
+    subtitle: « Huit heures de sommeil »
+    subtitle_color: yellow
+  - plan: 4
+    duration: 10-13 s
+    image: Il sort la tête de la couette, les yeux mi-clos
+    sound: Voix
+    subtitle: « Et c'est déjà fini ? »
+    subtitle_color: white
+  - plan: 5
+    duration: 13-16 s
+    image: 'Écran : « Répéter l''alarme ? »'
+    sound: Bip doux
+    subtitle: « Voulez-vous répéter l'alarme ? »
+    subtitle_color: yellow
+  - plan: 6
+    duration: 16-18 s
+    image: Il appuie, sourit, se rendort ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « Enfin quelqu'un qui me comprend »
+    subtitle_color: white
+- id: s02-d05
+  series: 2
+  num: 5
+  title: L'assistant vocal
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Lui : « Où sont mes clés ? »'
+  - 'Assistant : « Je n''ai pas cette information. »'
+  - 'Lui : « Tu connais la météo, l''heure et la capitale du Pérou, mais pas mes clés ? »'
+  - 'Assistant : « Elles sont toujours dans la dernière poche que vous vérifiez. »'
+  - 'Lui : « Tu vois ? Tu savais tout. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: Il fouille son manteau, une enceinte connectée en arrière-plan
+    sound: Bruits de poches
+    subtitle: « Où sont mes clés ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 3-6 s
+    image: Gros plan sur l'enceinte, l'anneau lumineux s'allume
+    sound: Voix de l'assistant
+    subtitle: « Je n'ai pas cette information »
+    subtitle_color: yellow
+  - plan: 3
+    duration: 6-10 s
+    image: Il se tourne vers l'enceinte, exaspéré
+    sound: Voix
+    subtitle: « La capitale du Pérou, mais pas mes clés ? »
+    subtitle_color: white
+  - plan: 4
+    duration: 10-14 s
+    image: Gros plan sur l'enceinte
+    sound: Voix, silence 1 s
+    subtitle: « La dernière poche que vous vérifiez »
+    subtitle_color: yellow
+  - plan: 5
+    duration: 14-18 s
+    image: Il sort les clés de sa dernière poche, fait la moue ; jingle
+    sound: Tintement de clés, jingle
+    subtitle: « Tu vois ? Tu savais tout »
+    subtitle_color: white
+- id: s02-d06
+  series: 2
+  num: 6
+  title: Le robot aspirateur
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Robot : « Nettoyage terminé. Poussière ramassée : 12 grammes. »'
+  - 'Lui : « Seulement ? »'
+  - 'Robot : « Le reste est sous le canapé. Une chaussette bloque le passage. »'
+  - 'Lui : « Tu es un robot. Tu es censé te débrouiller. »'
+  - 'Robot : « Et vous, vous êtes censé ranger vos chaussettes. »'
+  - 'Lui : « Bon, disons match nul. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: Le robot revient à sa base, un voyant vert
+    sound: Bip de fin de cycle
+    subtitle: « Nettoyage terminé »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 3-6 s
+    image: 'Il regarde l''écran de l''application : 12 g'
+    sound: Voix
+    subtitle: « Seulement ? »
+    subtitle_color: white
+  - plan: 3
+    duration: 6-10 s
+    image: 'Plan bas : le robot bloqué devant une chaussette, sous le canapé'
+    sound: Voix du robot, bruit de moteur
+    subtitle: « Une chaussette bloque le passage »
+    subtitle_color: yellow
+  - plan: 4
+    duration: 10-14 s
+    image: Il se penche vers le robot, les bras croisés
+    sound: Voix
+    subtitle: « Tu es censé te débrouiller »
+    subtitle_color: white
+  - plan: 5
+    duration: 14-18 s
+    image: Écran du robot en gros plan, puis lui, désarmé ; jingle
+    sound: Voix, silence 1 s, jingle
+    subtitle: « Vous êtes censé ranger vos chaussettes »
+    subtitle_color: yellow
+- id: s02-d07
+  series: 2
+  num: 7
+  title: La caisse automatique
+  character: pince-sans-rire
+  duration_s: 20
+  text_lines:
+  - 'Caisse : « Veuillez placer l''article dans la zone d''emballage. »'
+  - 'Lui : « Il est dans la zone d''emballage. »'
+  - 'Caisse : « Article inattendu dans la zone d''emballage. »'
+  - 'Lui : « C''est le même article ! »'
+  - 'Caisse : « Une aide va arriver. Merci de patienter. »'
+  - 'Lui : « On a inventé ça pour ne plus attendre. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: Il scanne un article devant une caisse automatique
+    sound: Bip du scanner
+    subtitle: « Placez l'article dans la zone d'emballage »
+    subtitle_color: yellow
+  - plan: 2
+    duration: 3-6 s
+    image: Il pose l'article, l'air sûr de lui
+    sound: Voix
+    subtitle: « Il est dans la zone d'emballage »
+    subtitle_color: white
+  - plan: 3
+    duration: 6-10 s
+    image: 'Gros plan sur l''écran de la caisse : message d''erreur'
+    sound: Buzzer
+    subtitle: « Article inattendu »
+    subtitle_color: yellow
+  - plan: 4
+    duration: 10-14 s
+    image: Il lève les bras
+    sound: Voix
+    subtitle: « C'est le même article ! »
+    subtitle_color: white
+  - plan: 5
+    duration: 14-17 s
+    image: Un voyant rouge clignote au-dessus de la caisse
+    sound: Voix, bruit de fond du magasin
+    subtitle: « Merci de patienter »
+    subtitle_color: yellow
+  - plan: 6
+    duration: 17-20 s
+    image: Face caméra, il regarde sa montre ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « On a inventé ça pour ne plus attendre »
+    subtitle_color: white
+- id: s02-d08
+  series: 2
+  num: 8
+  title: La visioconférence
+  character: pince-sans-rire
+  duration_s: 18
+  text_lines:
+  - 'Lui : « Allô ? Vous m''entendez ? »'
+  - 'Application : « Vous êtes en sourdine. »'
+  - 'Lui : « Et maintenant ? »'
+  - 'Application : « On vous entend, mais on ne vous voit plus. »'
+  - 'Lui : « Finalement, je préférais me déplacer. »'
+  plans:
+  - plan: 1
+    duration: 0-3 s
+    image: Écran d'ordinateur avec une grille de visages ; il parle, mais l'icône du micro est barrée
+    sound: Voix étouffée
+    subtitle: « Vous m'entendez ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 3-7 s
+    image: Notification en gros plan
+    sound: Bip de notification
+    subtitle: « Vous êtes en sourdine »
+    subtitle_color: yellow
+  - plan: 3
+    duration: 7-11 s
+    image: Il clique, fait de grands gestes, mais son image se fige
+    sound: Voix, léger bruit de connexion
+    subtitle: « Et maintenant ? »
+    subtitle_color: white
+  - plan: 4
+    duration: 11-15 s
+    image: La grille de participants ; sa vignette devient noire
+    sound: Voix de l'application
+    subtitle: « On vous entend, mais on ne vous voit plus »
+    subtitle_color: yellow
+  - plan: 5
+    duration: 15-18 s
+    image: Face caméra, résigné ; jingle
+    sound: Silence 1 s, jingle
+    subtitle: « Je préférais me déplacer »
+    subtitle_color: white

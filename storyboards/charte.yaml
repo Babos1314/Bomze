@@ -1,0 +1,46 @@
+title: Charte de production - série de vidéos courtes humoristiques
+format:
+  aspect_ratio_shoot: "16:9 (1920x1080)"
+  aspect_ratio_export: ["16:9", "9:16"]
+  framing_note: >
+    Tournage centré (personnage au milieu du cadre) pour permettre un recadrage
+    9:16 sans perte du sujet, destiné à TikTok, Reels et YouTube Shorts.
+  duration_range_s: [8, 20]
+
+subtitles:
+  style: "Blanc à contour noir, 1 à 2 mots par apparition, calés sur la voix"
+  color_human: white
+  color_object_or_presenter: yellow
+  placement: "Tiers central de l'image, pour rester lisible en 9:16"
+  rule: >
+    Le sous-titre est blanc quand la réplique vient d'un humain (personnage
+    principal), et jaune quand elle vient d'un objet, d'un assistant, d'un
+    présentateur hors champ ou de tout ce qui n'est pas le personnage lui-même.
+
+audio:
+  jingle_intro_s: 2
+  jingle_outro_s: 2
+  pre_punchline_silence_s: 1
+  rule: >
+    Jingle de 2 secondes identique au début et à la fin de chaque vidéo,
+    silence d'une seconde juste avant la chute pour la faire ressortir.
+
+end_card:
+  rule: "Carton final identique pour toutes les vidéos d'une même série : nom de la série + numéro de l'épisode."
+
+publication:
+  cadence: "2 à 3 vidéos par semaine, tournées et montées par lots"
+  caption_rule: "Une phrase reprenant la chute sans la dévoiler entièrement, plus une question pour susciter les commentaires"
+  suggested_order: ["Le téléphone", "Les mots de passe", "Les conditions d'utilisation"]
+
+pre_publish_checklist:
+  - "Le personnage et le décor sont identiques dans toutes les vidéos d'une même série."
+  - "Les textes sont originaux et lisibles à voix haute en moins de 20 secondes."
+  - "Les sous-titres sont vérifiés (orthographe, timing)."
+  - "Les musiques et sons utilisés sont libres de droits ou sous licence."
+
+series_shoot_order:
+  - "Écrire et valider les textes."
+  - "Tourner tous les plans face caméra dans le même décor, en une seule séance."
+  - "Tourner ensuite les inserts (téléphone, montre, frigo, GPS, réveil, etc.)."
+  - "Monter, sous-titrer, puis exporter en 16:9 et en 9:16."

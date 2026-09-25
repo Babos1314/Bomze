@@ -1,0 +1,286 @@
+series: 3
+key: fausses-pubs
+name: Fausses pubs
+character: clown
+video_count: 8
+videos:
+- id: s03-p01
+  series: 3
+  num: 1
+  title: Le Silence Premium™
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Fatigué du bruit ? Découvrez le Silence Premium™, le silence en boîte, garanti sans aucun
+    son. Une fois ouvert, plus un bruit ! Le Silence Premium™ : 9,99 €. Mode d''emploi : fermez la porte.
+    Mentions légales : le silence peut être interrompu par vos voisins. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Le personnage se bouche les oreilles au milieu d'une pièce bruyante (mixeur, perceuse, klaxon)
+    sound: Vacarme, puis jingle
+    subtitle: « Fatigué du bruit ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Packshot : une boîte blanche ornée d''un grand « Silence Premium™ »'
+    sound: Voix off enthousiaste
+    subtitle: « Le silence en boîte »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Il ouvre la boîte, sourit, boit un thé en silence
+    sound: Silence complet, puis coup de perceuse au loin
+    subtitle: « Garanti sans aucun son »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Carton avec le prix ; mention légale en petits caractères
+    sound: Silence 1 s, voix rapide pour la mention légale
+    subtitle: '« Mode d''emploi : fermez la porte »'
+    subtitle_color: white
+- id: s03-p02
+  series: 3
+  num: 2
+  title: Le Post-it Intelligent™
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Sans wifi, sans batterie, sans mise à jour, découvrez le Post-it Intelligent™ ! Il vous
+    rappelle tout ce que vous avez écrit dessus. Compatible avec tous les frigos. Le Post-it Intelligent™
+    : le progrès, version papier. Mentions légales : ne s''intelligente qu''avec un stylo. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Il fixe un smartphone qui affiche « Mise à jour en cours »
+    sound: Jingle, bip de mise à jour
+    subtitle: « Sans wifi, sans batterie, sans mise à jour »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Packshot : un simple post-it jaune sur fond blanc, éclairé comme un produit de luxe'
+    sound: Voix off solennelle
+    subtitle: « Le Post-it Intelligent™ »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Il écrit « Lait » sur le post-it, le colle sur le frigo, hoche la tête, admiratif
+    sound: Crissement du stylo, jingle
+    subtitle: « Il vous rappelle tout ce que vous avez écrit dessus »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Carton final ; mention légale en petits caractères
+    sound: Silence 1 s, voix rapide
+    subtitle: « Le progrès, version papier »
+    subtitle_color: white
+- id: s03-p03
+  series: 3
+  num: 3
+  title: Le Mot de Passe Facile™
+  character: clown
+  duration_s: 16
+  text_lines:
+  - 'Texte : « Vous oubliez tous vos mots de passe ? Découvrez le Mot de Passe Facile™, celui qu''on n''oublie
+    jamais. Le Mot de Passe Facile™ : un, deux, trois, quatre. Sécurité : aucune. Mémoire : garantie.
+    Mentions légales : à ne pas utiliser pour votre banque. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Il tape, échoue, tape encore devant un ordinateur, de plus en plus énervé
+    sound: Buzzers d'erreur, jingle
+    subtitle: « Vous oubliez tous vos mots de passe ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Packshot : un cadenas en gros plan avec « 1234 » gravé'
+    sound: Voix off
+    subtitle: « Le Mot de Passe Facile™ »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-13 s
+    image: Il tape le code, l'écran affiche « Bienvenue » ; il lève les bras, victorieux
+    sound: Fanfare
+    subtitle: '« Sécurité : aucune. Mémoire : garantie »'
+    subtitle_color: white
+  - plan: 4
+    duration: 13-16 s
+    image: Carton final ; mention légale en petits caractères
+    sound: Silence 1 s, voix rapide
+    subtitle: « À ne pas utiliser pour votre banque »
+    subtitle_color: white
+- id: s03-p04
+  series: 3
+  num: 4
+  title: Le Réveil Menteur™
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Toujours en retard ? Découvrez le Réveil Menteur™ : il avance de trente minutes, et vous
+    arrivez enfin à l''heure. Le Réveil Menteur™ : il vous ment, vous gagnez. Mentions légales : ne fonctionne
+    que si vous ne calculez pas. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Il court dans la rue, essoufflé, en regardant sa montre
+    sound: Course, jingle
+    subtitle: « Toujours en retard ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Packshot : un réveil dont l''écran affiche 8:30 alors que l''heure réelle est 8:00'
+    sound: Voix off enthousiaste
+    subtitle: « Le Réveil Menteur™ »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Il arrive à l'heure, les bras au ciel, devant un collègue étonné
+    sound: Applaudissements enregistrés
+    subtitle: « Vous arrivez enfin à l'heure »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Carton final ; mention légale en petits caractères
+    sound: Silence 1 s, voix rapide
+    subtitle: « Il vous ment, vous gagnez »
+    subtitle_color: white
+- id: s03-p05
+  series: 3
+  num: 5
+  title: Le Bouton Pause™
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Stressé ? Découvrez le Bouton Pause™ ! Un bouton rouge, un seul. Appuyez, respirez, et
+    tout continue exactement comme avant. Le Bouton Pause™ : il ne change rien, mais vous avez appuyé.
+    Mentions légales : n''arrête ni le temps, ni les factures. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: 'Le clown à son bureau, débordé : dossiers, téléphone qui sonne, horloge'
+    sound: Sonneries en tout sens, jingle
+    subtitle: « Stressé ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Packshot : un gros bouton rouge sur un socle, éclairé comme un produit de luxe'
+    sound: Voix off enthousiaste
+    subtitle: « Le Bouton Pause™ »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: 'Il appuie, ferme les yeux, respire ; plan large : tout continue autour de lui'
+    sound: Souffle, puis vacarme qui reprend
+    subtitle: « Appuyez. Respirez. »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Carton final ; mention légale en petits caractères
+    sound: Silence 1 s, voix rapide
+    subtitle: « Il ne change rien, mais vous avez appuyé »
+    subtitle_color: white
+- id: s03-p06
+  series: 3
+  num: 6
+  title: La Chaussette Jumelle™
+  character: clown
+  duration_s: 17
+  text_lines:
+  - 'Texte : « Marre des chaussettes orphelines ? Découvrez la Chaussette Jumelle™ : vendue avec sa jumelle,
+    et même une troisième, au cas où. La Chaussette Jumelle™ : deux, c''est bien. Trois, c''est mieux.
+    Mentions légales : la quatrième disparaîtra quand même. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Le clown tient une chaussette seule, il fouille un tiroir en vain
+    sound: Froissement de tissu, jingle
+    subtitle: « Chaussette orpheline ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Packshot : deux chaussettes identiques, plus une troisième, sur fond blanc'
+    sound: Voix off enthousiaste
+    subtitle: « La Chaussette Jumelle™ »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-13 s
+    image: Il enfile les deux chaussettes, pouces levés ; la troisième posée sur la table
+    sound: Fanfare
+    subtitle: « Et une troisième, au cas où »
+    subtitle_color: white
+  - plan: 4
+    duration: 13-17 s
+    image: 'Le tiroir : la troisième a disparu ; carton final, mention légale'
+    sound: Silence 1 s, voix rapide
+    subtitle: « La quatrième disparaîtra quand même »
+    subtitle_color: white
+- id: s03-p07
+  series: 3
+  num: 7
+  title: Le Générateur d'Excuses™
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Toujours en retard ? Découvrez le Générateur d''Excuses™ ! Un bouton, une excuse : embouteillage,
+    panne de réveil, chat malade. Le Générateur d''Excuses™ : vous n''arriverez plus jamais en retard…
+    officiellement. Mentions légales : le chat n''a pas donné son accord. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Le clown arrive en retard, les collègues (silhouettes) le regardent
+    sound: Porte qui grince, jingle
+    subtitle: « Toujours en retard ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Packshot : une boîte avec un seul gros bouton'
+    sound: Voix off enthousiaste
+    subtitle: « Le Générateur d'Excuses™ »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: Il appuie ; une voix de robot annonce chaque excuse ; un chat le regarde, suspicieux
+    sound: 'Voix robot : « Embouteillage. Panne de réveil. Chat malade. »'
+    subtitle: « Un bouton, une excuse »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Carton final ; mention légale en petits caractères
+    sound: Silence 1 s, voix rapide
+    subtitle: « Officiellement »
+    subtitle_color: white
+- id: s03-p08
+  series: 3
+  num: 8
+  title: Le Câble Universel™
+  character: clown
+  duration_s: 18
+  text_lines:
+  - 'Texte : « Fatigué de chercher le bon câble ? Découvrez le Câble Universel™ : il se branche sur tout,
+    partout, tout le temps. Compatible avec tous vos appareils, sauf le vôtre. Mentions légales : le vôtre
+    est différent. »'
+  plans:
+  - plan: 1
+    duration: 0-4 s
+    image: Un tiroir plein de câbles emmêlés, le clown fouille avec agacement
+    sound: Bruits de câbles, jingle
+    subtitle: « Fatigué de chercher le bon câble ? »
+    subtitle_color: white
+  - plan: 2
+    duration: 4-9 s
+    image: 'Packshot : un long câble blanc sur fond lumineux'
+    sound: Voix off enthousiaste
+    subtitle: « Le Câble Universel™ »
+    subtitle_color: white
+  - plan: 3
+    duration: 9-14 s
+    image: 'Il branche le câble sur plusieurs appareils, triomphant ; puis sur son propre appareil : impossible'
+    sound: Fanfare, puis bip d'erreur
+    subtitle: « Compatible avec tous vos appareils »
+    subtitle_color: white
+  - plan: 4
+    duration: 14-18 s
+    image: Carton final ; mention légale en petits caractères
+    sound: Silence 1 s, voix rapide
+    subtitle: « Sauf le vôtre »
+    subtitle_color: white

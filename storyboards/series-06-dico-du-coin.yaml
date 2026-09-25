@@ -1,0 +1,336 @@
+series: 6
+key: dico-du-coin
+name: Le Dico du coin
+character: clown
+video_count: 10
+videos:
+- id: s06-m01
+  series: 6
+  num: 1
+  title: Réunion
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Réunion : Événement qui aurait pu être un mail'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Réunion » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Réunion
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; le clown à une table de réunion, un ordinateur affiche « Envoyer »
+    sound: Voix, bruitage adapté
+    subtitle: Événement qui aurait pu être un mail
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m02
+  series: 6
+  num: 2
+  title: Wifi
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Wifi : Lieu mystique où le signal s''améliore quand on monte sur une chaise'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Wifi » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Wifi
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; il tient son téléphone en l'air, debout sur une chaise
+    sound: Voix, bruitage adapté
+    subtitle: Lieu mystique où le signal s'améliore quand on monte sur une chaise
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m03
+  series: 6
+  num: 3
+  title: Ascenseur
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Ascenseur : Salle d''attente verticale où l''on étudie ses chaussures'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Ascenseur » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Ascenseur
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; il fixe ses chaussures dans une cabine d'ascenseur silencieuse
+    sound: Voix, bruitage adapté
+    subtitle: Salle d'attente verticale où l'on étudie ses chaussures
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m04
+  series: 6
+  num: 4
+  title: Mot de passe
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Mot de passe : Suite de caractères oubliée dès qu''elle est devenue sécurisée'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Mot de passe » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Mot de passe
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; il tape en vain ; l'écran affiche « Incorrect »
+    sound: Voix, bruitage adapté
+    subtitle: Suite de caractères oubliée dès qu'elle est devenue sécurisée
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m05
+  series: 6
+  num: 5
+  title: Notification
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Notification : Petite vibration prouvant que votre téléphone a plus de vie sociale que vous'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Notification » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Notification
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; son téléphone vibre sans arrêt, il le regarde, jaloux
+    sound: Voix, bruitage adapté
+    subtitle: Petite vibration prouvant que votre téléphone a plus de vie sociale que vous
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m06
+  series: 6
+  num: 6
+  title: Frigo
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Frigo : Endroit où l''on retourne toutes les cinq minutes en espérant que quelque chose ait changé'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Frigo » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Frigo
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; il ouvre, regarde, referme, trois fois de suite
+    sound: Voix, bruitage adapté
+    subtitle: Endroit où l'on retourne toutes les cinq minutes en espérant que quelque chose ait changé
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m07
+  series: 6
+  num: 7
+  title: Dimanche
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Dimanche : Jour officiel des bonnes résolutions du lundi'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Dimanche » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Dimanche
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; calendrier affichant dimanche ; il se rallonge sur le canapé
+    sound: Voix, bruitage adapté
+    subtitle: Jour officiel des bonnes résolutions du lundi
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m08
+  series: 6
+  num: 8
+  title: Canapé
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Canapé : Machine à voyager dans le temps : on s''assoit à 18 h, on se relève à minuit'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Canapé » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Canapé
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; l'horloge murale accélère derrière lui
+    sound: Voix, bruitage adapté
+    subtitle: 'Machine à voyager dans le temps : on s''assoit à 18 h, on se relève à minuit'
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m09
+  series: 6
+  num: 9
+  title: Régime
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Régime : Promesse faite au miroir et oubliée au dessert'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Régime » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Régime
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; il jure devant un miroir, puis une part de gâteau apparaît
+    sound: Voix, bruitage adapté
+    subtitle: Promesse faite au miroir et oubliée au dessert
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white
+- id: s06-m10
+  series: 6
+  num: 10
+  title: Lundi
+  character: clown
+  duration_s: 10
+  text_lines:
+  - 'Lundi : Rappel hebdomadaire que le week-end est terminé'
+  plans:
+  - plan: 1
+    duration: 0-2 s
+    image: 'Carton crème : le mot « Lundi » en gros, avec sa nature (« nom masculin »)'
+    sound: « Ding », jingle
+    subtitle: Lundi
+    subtitle_color: white
+  - plan: 2
+    duration: 2-4 s
+    image: Le clown, face caméra, tient le dictionnaire et prend un air solennel
+    sound: Voix posée
+    subtitle: « Nom masculin »
+    subtitle_color: white
+  - plan: 3
+    duration: 4-8 s
+    image: Il lit la définition ; il se réveille, regarde le calendrier, se rendort
+    sound: Voix, bruitage adapté
+    subtitle: Rappel hebdomadaire que le week-end est terminé
+    subtitle_color: white
+  - plan: 4
+    duration: 8-10 s
+    image: Regard caméra, coup de tampon « Définition officielle »
+    sound: Coup de tampon, jingle
+    subtitle: Tampon « Définition officielle »
+    subtitle_color: white

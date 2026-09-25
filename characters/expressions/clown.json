@@ -1,0 +1,55 @@
+{
+  "character": "clown",
+  "reference": "See ../clown.md for the base reference-sheet prompt",
+  "count": 8,
+  "expressions": [
+    {
+      "key": "deadpan",
+      "label_fr": "Blasé",
+      "used_in": "Séries 1 et 2 (le quotidien qui n'impressionne plus personne)",
+      "prompt": "Same character as the reference image: 3D rendered CGI Pixar-style animated character, man around 40, warm friendly face, white clown face paint, small red round nose, big colorful curly rainbow afro wig, red velvet ringmaster-style tailcoat with gold braid trim, polka-dot bow tie. Expression: deadpan, half-lidded weary eyes, one eyebrow raised just slightly, completely unimpressed, exaggerated expression with strongly emphasized eyebrows and mouth, eyes looking directly into the lens. Chest-up framing, soft studio lighting, plain light-grey background, 16:9. No text, no labels, no watermark."
+    },
+    {
+      "key": "pensive",
+      "label_fr": "Songeur",
+      "used_in": "Le frigo (dialogue 2), les débats (sketch 4)",
+      "prompt": "Same character as the reference image: 3D rendered CGI Pixar-style animated character, man around 40, warm friendly face, white clown face paint, small red round nose, big colorful curly rainbow afro wig, red velvet ringmaster-style tailcoat with gold braid trim, polka-dot bow tie. Expression: pensive and thoughtful, one eyebrow raised in concentration, gazing into the middle distance as if weighing a hard decision, exaggerated expression with strongly emphasized eyebrows and mouth, eyes looking directly into the lens. Chest-up framing, soft studio lighting, plain light-grey background, 16:9. No text, no labels, no watermark."
+    },
+    {
+      "key": "offended",
+      "label_fr": "Offusqué",
+      "used_in": "Les dialogues, quand l'objet remet le personnage en cause",
+      "prompt": "Same character as the reference image: 3D rendered CGI Pixar-style animated character, man around 40, warm friendly face, white clown face paint, small red round nose, big colorful curly rainbow afro wig, red velvet ringmaster-style tailcoat with gold braid trim, polka-dot bow tie. Expression: offended and indignant, eyebrows sharply raised, mouth slightly open in disbelief, exaggerated expression with strongly emphasized eyebrows and mouth, eyes looking directly into the lens. Chest-up framing, soft studio lighting, plain light-grey background, 16:9. No text, no labels, no watermark."
+    },
+    {
+      "key": "triumphant",
+      "label_fr": "Triomphant",
+      "used_in": "Le GPS, les mots de passe (quand il croit avoir gagné, juste avant la chute)",
+      "prompt": "Same character as the reference image: 3D rendered CGI Pixar-style animated character, man around 40, warm friendly face, white clown face paint, small red round nose, big colorful curly rainbow afro wig, red velvet ringmaster-style tailcoat with gold braid trim, polka-dot bow tie. Expression: triumphant, proud smirk, eyebrows raised with confidence, chin lifted slightly, exaggerated expression with strongly emphasized eyebrows and mouth, eyes looking directly into the lens. Chest-up framing, soft studio lighting, plain light-grey background, 16:9. No text, no labels, no watermark."
+    },
+    {
+      "key": "embarrassed",
+      "label_fr": "Gêné",
+      "used_in": "Les chutes du GPS, de la caisse automatique",
+      "prompt": "Same character as the reference image: 3D rendered CGI Pixar-style animated character, man around 40, warm friendly face, white clown face paint, small red round nose, big colorful curly rainbow afro wig, red velvet ringmaster-style tailcoat with gold braid trim, polka-dot bow tie. Expression: embarrassed and awkward, sheepish half-smile, one eyebrow raised apologetically, shoulders slightly hunched, exaggerated expression with strongly emphasized eyebrows and mouth, eyes looking directly into the lens. Chest-up framing, soft studio lighting, plain light-grey background, 16:9. No text, no labels, no watermark."
+    },
+    {
+      "key": "resigned",
+      "label_fr": "Résigné",
+      "used_in": "La visioconférence, les formulaires administratifs",
+      "prompt": "Same character as the reference image: 3D rendered CGI Pixar-style animated character, man around 40, warm friendly face, white clown face paint, small red round nose, big colorful curly rainbow afro wig, red velvet ringmaster-style tailcoat with gold braid trim, polka-dot bow tie. Expression: resigned, tired acceptance, eyebrows relaxed and slightly lowered, the faint sigh of someone who has stopped fighting it, exaggerated expression with strongly emphasized eyebrows and mouth, eyes looking directly into the lens. Chest-up framing, soft studio lighting, plain light-grey background, 16:9. No text, no labels, no watermark."
+    },
+    {
+      "key": "exhausted",
+      "label_fr": "Épuisé",
+      "used_in": "Le réveil, les longs discours",
+      "prompt": "Same character as the reference image: 3D rendered CGI Pixar-style animated character, man around 40, warm friendly face, white clown face paint, small red round nose, big colorful curly rainbow afro wig, red velvet ringmaster-style tailcoat with gold braid trim, polka-dot bow tie. Expression: exhausted, heavy eyelids nearly closed, eyebrows drooping, mouth slack with fatigue, exaggerated expression with strongly emphasized eyebrows and mouth, eyes looking directly into the lens. Chest-up framing, soft studio lighting, plain light-grey background, 16:9. No text, no labels, no watermark."
+    },
+    {
+      "key": "salesman_smile",
+      "label_fr": "Sourire de vendeur (un peu trop appuyé)",
+      "used_in": "Les fausses pubs",
+      "prompt": "Same character as the reference image: 3D rendered CGI Pixar-style animated character, man around 40, warm friendly face, white clown face paint, small red round nose, big colorful curly rainbow afro wig, red velvet ringmaster-style tailcoat with gold braid trim, polka-dot bow tie. Expression: an oversold salesman smile, teeth showing, eyebrows raised with forced enthusiasm, just a touch too eager to be sincere, exaggerated expression with strongly emphasized eyebrows and mouth, eyes looking directly into the lens. Chest-up framing, soft studio lighting, plain light-grey background, 16:9. No text, no labels, no watermark."
+    }
+  ]
+}
