@@ -105,4 +105,22 @@ character consistency reference, family-friendly, cheerful, not scary
 
 ## Épisode 6
 
+| Plan | Cadrage | Action | Dialogue / texte écran | Durée |
+|---|---|---|---|---|
+| 1 | Plan large | Gustave entre, micro à la main, chapeau ajusté : *"Ce soir, spécial confusion générale — accrochez-vous, ça part dans tous les sens !"* | — | 4s |
+| 2 | Plan serré | Carton : **« ÇA SE TROUVE DANS LES COLLIERS DES ANIMAUX DOMESTIQUES »** — Gustave sort un collier pour chien, le renifle, perplexe, lit l'étiquette à l'envers : *"Acétamipride, imidaclopride... même les chiens n'y comprennent plus rien."* | Annie Génevard, ministre de l'Agriculture, mai 2025 | 8s |
+| 3 | Gros plan | Il repose le collier, aboie une fois, silence gêné | — | 2s |
+| 4 | Plan serré | Carton : **« POMPIDOU ? J'AI PAS DE SOUVENIR »** — Gustave regarde un portrait imaginaire, fronce les sourcils très fort, cherche désespérément : *"Moi non plus d'ailleurs. On est deux."* | Marine Tondelier, quiz raté sur LCI, 7 sept. 2026 | 8s |
+| 5 | Plan large | Il hausse les épaules, sourire innocent caméra | — | 3s |
+| 6 | Plan serré | Carton : **« UNE MOTION DE CENSURE PARCE QU'IL FAISAIT CHAUD »** — Gustave s'évente frénétiquement avec un petit éventail tricolore, mine dramatique : *"Ah oui, la canicule, l'ennemi juré de la démocratie."* | Sébastien Lecornu, LCI, 29 août 2026 | 9s |
+| 7 | Gros plan | Il range l'éventail, s'éponge le front, silence | — | 2s |
+| 8 | Plan serré | Carton : **« UN ÉTAT D'IVRESSE NARCISSIQUE »** — Gustave titube en rond, se regarde dans un petit miroir de poche, trinque tout seul : *"À la vôtre ! Enfin... à la sienne."* | P.-Y. Bournazel à propos de Rachida Dati, livre *La Bataille pour Paris*, 2026 | 9s |
+| 9 | Plan large | Il range le miroir, se remet droit d'un coup | — | 2s |
+| 10 | Plan serré | Carton : **« C'EST UNE CANICULE QUI A ÉTÉ DÉCLENCHÉE »** — Gustave mime quelqu'un qui appuie sur un gros bouton rouge imaginaire pour "déclencher" le soleil : *"Déclenchée par qui, on se demande encore."* | Agnès Pannier-Runacher, lapsus, juillet 2026 | 8s |
+| 11 | Plan large, chute | Salut final, chapeau retiré : *"Gustave Girouette — entre les colliers, les présidents oubliés et le soleil qu'on allume à la demande, on n'est jamais déçus. À la semaine prochaine !"* | — | 5s |
+
+---
+
+## Épisode 7
+
 *(à compléter — banque de citations en cours de recherche)*
