@@ -26,8 +26,9 @@ characters.
 
 1. **Le pince-sans-rire** — series 2 (Dialogues avec un objet), 4 (Le
    monde politique), 5 (Le conseil de l'expert).
-2. **Le clown** — series 1 (Vannes courtes), 3 (Fausses pubs), 6 (Le Dico
-   du coin).
+2. **Le clown** (v2: circus showman — rainbow wig, red ringmaster tailcoat,
+   vintage microphone) — series 1 (Vannes courtes), 3 (Fausses pubs), 6 (Le
+   Dico du coin).
 
 ## Series overview
 
